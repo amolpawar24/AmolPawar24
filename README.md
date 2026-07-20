@@ -199,12 +199,10 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          GITHUB ANALYTICS SECTION (RESTYLED — radical theme)   -->
-<!--   Left  → Overall GitHub stats (commits, PRs, issues etc.)    -->
-<!--   Right → Current contribution streak counter                  -->
+<!--        GITHUB ANALYTICS SECTION (RESTYLED — streak only)       -->
+<!--   Current contribution streak counter                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amolpawar24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amolpawar24&locale=en&mode=daily&theme=radical&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
 </div>
 
@@ -218,11 +216,20 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TOP LANGUAGES SECTION                       -->
-<!--      Shows most used programming languages across all repos    -->
+<!--                 GITHUB TROPHIES SECTION (NEW)                  -->
+<!--   Replaces the old stats + top-langs cards, which relied on    -->
+<!--   github-readme-stats' shared vercel instance (unreliable).    -->
+<!--   Uses github-profile-trophy — a separately hosted, actively   -->
+<!--   maintained project, for a modern achievement-style showcase. -->
+<!--   Overall stats & top languages are still covered further      -->
+<!--   below by the Profile Summary Cards section.                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amolpawar24&locale=en&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=amolpawar24&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=-1&row=2" alt="GitHub Trophies" />
+
 </div>
 
 <br clear="both">
