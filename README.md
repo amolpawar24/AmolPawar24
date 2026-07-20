@@ -1,9 +1,26 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     HEADER BANNER SECTION                      -->
-<!--        Animated waving banner with name and designation        -->
+<!--            HEADER BANNER SECTION (MODERNIZED)                  -->
+<!--        Gradient waving banner + animated typing tagline        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amol%20Pawar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hi%20there,%20I'm%20Amol%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20clean,%20scalable%20web%20apps&descAlignY=58&descSize=16" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/amolpawar24">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+</div>
+
+<br clear="both">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      QUICK INFO BADGES (NEW)                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-06B6D4?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" />
 </div>
 
 <br clear="both">
@@ -125,13 +142,70 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB ANALYTICS SECTION                     -->
+<!--                  FEATURED PROJECTS SECTION (NEW)                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+### 🚀 Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 BPL Official
+Modern, responsive platform built on React/Next.js with a Node.js backend.
+
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠️ BPL Admin Dashboard
+Feature-rich dashboard with real-time data management and a clean UI.
+
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ BPL Backend API
+RESTful API built with Express & MongoDB powering the entire BPL ecosystem.
+
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 Portfolio Website
+Personal portfolio showcasing projects, skills & experience — fully responsive.
+
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br clear="both">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER LINE                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--          GITHUB ANALYTICS SECTION (RESTYLED — radical theme)   -->
 <!--   Left  → Overall GitHub stats (commits, PRs, issues etc.)    -->
 <!--   Right → Current contribution streak counter                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amolpawar24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=true" height="150" alt="stats graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amolpawar24&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=amolpawar24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amolpawar24&locale=en&mode=daily&theme=radical&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
 </div>
 
 <br clear="both">
@@ -148,7 +222,7 @@
 <!--      Shows most used programming languages across all repos    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amolpawar24&locale=en&layout=compact&langs_count=8&theme=outrun&hide_border=true" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amolpawar24&locale=en&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </div>
 
 <br clear="both">
@@ -280,7 +354,7 @@
 <!--   Theme: react-dark | Updates automatically with commits       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amolpawar24&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amolpawar24&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="GitHub Activity Graph" />
 </div>
 
 <br clear="both">
@@ -298,7 +372,7 @@
 <!--   Powered by komarev.com — reliable & always working          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=amolpawar24&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=amolpawar24&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br clear="both">
@@ -329,11 +403,11 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FOOTER WAVE BANNER                           -->
+<!--             FOOTER WAVE BANNER (RESTYLED — gradient)           -->
 <!--        Closing waving animation matching the header            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer" />
 </div>
 
 <!---
