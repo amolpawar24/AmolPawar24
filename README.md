@@ -216,20 +216,33 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 GITHUB TROPHIES SECTION (NEW)                  -->
-<!--   Replaces the old stats + top-langs cards, which relied on    -->
-<!--   github-readme-stats' shared vercel instance (unreliable).    -->
-<!--   Uses github-profile-trophy — a separately hosted, actively   -->
-<!--   maintained project, for a modern achievement-style showcase. -->
-<!--   Overall stats & top languages are still covered further      -->
-<!--   below by the Profile Summary Cards section.                  -->
+<!--               PROFILE SNAPSHOT SECTION (WORKING)                -->
+<!--   Same vercel domain as the working stats/language cards below  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-### 🏆 GitHub Trophies
+### 👤 Profile Snapshot
 
-<img src="https://raw.githubusercontent.com/amolpawar24/amolpawar24/main/profile/trophy.svg" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amolpawar24&theme=radical" alt="Profile Details" />
 
+</div>
+
+<br clear="both">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER LINE                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    FUN QUOTE BANNER (NEW)                      -->
+<!--   Zero-setup decorative banner — same capsule-render service   -->
+<!--   already used in the header/footer of this file.               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:06B6D4&height=120&section=header&text=Code.%20Break.%20Fix.%20Repeat.&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
 </div>
 
 <br clear="both">
