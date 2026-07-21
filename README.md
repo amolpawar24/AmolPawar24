@@ -228,7 +228,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=amolpawar24&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=-1&row=2" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/amolpawar24/amolpawar24/main/profile/trophy.svg" alt="GitHub Trophies" />
 
 </div>
 
