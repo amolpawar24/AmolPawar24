@@ -313,7 +313,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
   </a>
 
  <!-- Gmail -->
-<a href="mailto:amolpawar.dev@gmail.com">
+<a href="mailto:amolpawar.me@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
 
