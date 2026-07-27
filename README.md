@@ -242,16 +242,15 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <!-- Row 1 — Language Distribution Cards -->
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amolpawar24&theme=radical" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amolpawar24&theme=radical" height="150" />
 </div>
-
-<!-- Row 2 — Stats & Productive Time Cards -->
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amolpawar24&theme=radical" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amolpawar24&theme=radical&utcOffset=5.5" height="150" />
-</div>
-
 <br clear="both">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER LINE                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   CODING ACTIVITY SECTION                      -->
