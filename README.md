@@ -216,27 +216,6 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               PROFILE SNAPSHOT SECTION (WORKING)                -->
-<!--   Same vercel domain as the working stats/language cards below  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-### 👤 Profile Snapshot
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amolpawar24&theme=radical" alt="Profile Details" />
-
-</div>
-
-<br clear="both">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED DIVIDER LINE                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-<img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FUN QUOTE BANNER (NEW)                      -->
 <!--   Zero-setup decorative banner — same capsule-render service   -->
 <!--   already used in the header/footer of this file.               -->
