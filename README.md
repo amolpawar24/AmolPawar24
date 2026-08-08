@@ -271,7 +271,8 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL MEDIA SECTION                        -->
-<!--        Facebook | Instagram | LinkedIn | Gmail | Codepen       -->
+<!--   Facebook | Instagram | LinkedIn | X | Dev.to | Medium |      -->
+<!--   Gmail | Portfolio                                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
@@ -288,6 +289,21 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
   <!-- LinkedIn Profile Link -->
   <a href="[https://www.linkedin.com/in/amolpawar-dev/](https://www.linkedin.com/in/amolpawar24/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"          alt="linkedin logo" />
+  </a>
+
+  <!-- X (Twitter) Profile Link -->
+  <a href="https://x.com/AmolPawar2404" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
+  </a>
+
+  <!-- Dev.to Profile Link -->
+  <a href="https://dev.to/amolpawar24" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Dev.to&logo=devdotto&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dev.to logo" />
+  </a>
+
+  <!-- Medium Profile Link -->
+  <a href="https://medium.com/@amolpawar.me" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
   </a>
 
  <!-- Gmail -->
