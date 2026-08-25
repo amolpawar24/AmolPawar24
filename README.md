@@ -203,7 +203,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <!--   Current contribution streak counter                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amolpawar24&locale=en&mode=daily&theme=radical&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=amolpawar24&locale=en&mode=daily&theme=radical&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
 </div>
 
 <br clear="both">
