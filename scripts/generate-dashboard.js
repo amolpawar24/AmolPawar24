@@ -14,7 +14,9 @@ const headers = {
 };
 
 async function github(url) {
-  const response = await fetch(url, { headers });
+  const response = await fetch(url, {
+    headers,
+  });
 
   if (!response.ok) {
     throw new Error(
@@ -44,7 +46,9 @@ function getRelativeTime(dateString) {
 
   const seconds = Math.floor((now - date) / 1000);
 
-  if (seconds < 60) return "Just now";
+  if (seconds < 60) {
+    return "Just now";
+  }
 
   const minutes = Math.floor(seconds / 60);
 
@@ -75,9 +79,9 @@ function getRelativeTime(dateString) {
   return `${years} year${years === 1 ? "" : "s"} ago`;
 }
 
-/* -----------------------------------------
-   GET ALL REPOSITORIES
------------------------------------------- */
+/* ================================================================
+   REPOSITORIES
+================================================================ */
 
 async function getRepositories() {
   let repositories = [];
@@ -104,12 +108,12 @@ async function getRepositories() {
   return repositories.filter((repo) => !repo.fork);
 }
 
-/* -----------------------------------------
-   GET LANGUAGE STATISTICS
------------------------------------------- */
+/* ================================================================
+   LANGUAGE STATISTICS
+================================================================ */
 
 async function getLanguages(repositories) {
-  const languageTotals = {};
+  const totals = {};
 
   for (const repo of repositories) {
     try {
@@ -118,22 +122,23 @@ async function getLanguages(repositories) {
       );
 
       for (const [language, bytes] of Object.entries(languages)) {
-        languageTotals[language] =
-          (languageTotals[language] || 0) + bytes;
+        totals[language] = (totals[language] || 0) + bytes;
       }
     } catch {
-      console.log(`Skipping languages for ${repo.name}`);
+      console.log(
+        `⚠️ Unable to load languages for ${repo.name}`
+      );
     }
   }
 
-  return languageTotals;
+  return totals;
 }
 
-/* -----------------------------------------
-   CODE DISTRIBUTION
------------------------------------------- */
+/* ================================================================
+   LANGUAGE SECTION
+================================================================ */
 
-function createLanguageStats(languageTotals) {
+function createLanguageSection(languageTotals) {
   const totalBytes = Object.values(languageTotals).reduce(
     (sum, value) => sum + value,
     0
@@ -142,7 +147,7 @@ function createLanguageStats(languageTotals) {
   if (!totalBytes) {
     return `
 <p align="center">
-No language statistics available.
+<sub>No language statistics available.</sub>
 </p>
 `;
   }
@@ -151,33 +156,31 @@ No language statistics available.
     .sort((a, b) => b[1] - a[1])
     .slice(0, 6);
 
-  const badges = languages
-    .map(([language, bytes]) => {
-      const percentage = ((bytes / totalBytes) * 100).toFixed(1);
-
-      return `
-<a href="#">
-<img
-src="https://img.shields.io/badge/${encodeURIComponent(
-        language
-      )}-${percentage}%25-0969DA?style=flat-square"
-alt="${escapeHtml(language)} ${percentage}%"
-/>
-</a>
-`;
-    })
-    .join(" ");
-
   return `
 <div align="center">
 
-${badges}
+${languages
+  .map(([language, bytes]) => {
+    const percentage = ((bytes / totalBytes) * 100).toFixed(1);
+
+    return `<img src="https://img.shields.io/badge/${encodeURIComponent(
+      language
+    )}-${percentage}%25-6D28D9?style=flat-square" alt="${escapeHtml(
+      language
+    )}" />`;
+  })
+  .join(" ")}
 
 </div>
 
 <br>
 
-<table align="center">
+<table width="100%">
+
+<tr>
+<th>Language</th>
+<th align="right">Usage</th>
+</tr>
 
 ${languages
   .map(([language, bytes]) => {
@@ -185,8 +188,13 @@ ${languages
 
     return `
 <tr>
-<td><strong>${escapeHtml(language)}</strong></td>
-<td align="right"><strong>${percentage}%</strong></td>
+<td>
+<strong>${escapeHtml(language)}</strong>
+</td>
+
+<td align="right">
+<strong>${percentage}%</strong>
+</td>
 </tr>
 `;
   })
@@ -196,9 +204,9 @@ ${languages
 `;
 }
 
-/* -----------------------------------------
+/* ================================================================
    TOP REPOSITORIES
------------------------------------------- */
+================================================================ */
 
 function createTopRepositories(repositories) {
   const topRepositories = [...repositories]
@@ -208,12 +216,12 @@ function createTopRepositories(repositories) {
         b.forks_count - a.forks_count ||
         new Date(b.pushed_at) - new Date(a.pushed_at)
     )
-    .slice(0, 5);
+    .slice(0, 6);
 
   if (!topRepositories.length) {
     return `
 <p align="center">
-No repositories found.
+<sub>No repositories available.</sub>
 </p>
 `;
   }
@@ -244,13 +252,17 @@ ${topRepositories
 </a>
 ${
   repo.description
-    ? `<br><sub>${escapeHtml(repo.description)}</sub>`
+    ? `<br><sub>${escapeHtml(
+        repo.description.length > 120
+          ? repo.description.substring(0, 117) + "..."
+          : repo.description
+      )}</sub>`
     : ""
 }
 </td>
 
 <td align="center">
-${escapeHtml(repo.language || "—")}
+<sub>${escapeHtml(repo.language || "—")}</sub>
 </td>
 
 <td align="center">
@@ -270,11 +282,11 @@ ${formatNumber(repo.forks_count)}
 `;
 }
 
-/* -----------------------------------------
-   RECENTLY UPDATED
------------------------------------------- */
+/* ================================================================
+   RECENT ACTIVITY
+================================================================ */
 
-function createRecentRepositories(repositories) {
+function createRecentActivity(repositories) {
   const recentRepositories = [...repositories]
     .sort(
       (a, b) =>
@@ -285,7 +297,7 @@ function createRecentRepositories(repositories) {
   if (!recentRepositories.length) {
     return `
 <p align="center">
-No recent activity available.
+<sub>No recent activity available.</sub>
 </p>
 `;
   }
@@ -311,7 +323,7 @@ ${recentRepositories
 </td>
 
 <td align="center">
-${escapeHtml(repo.language || "—")}
+<sub>${escapeHtml(repo.language || "—")}</sub>
 </td>
 
 <td align="right">
@@ -327,9 +339,9 @@ ${escapeHtml(repo.language || "—")}
 `;
 }
 
-/* -----------------------------------------
+/* ================================================================
    MAIN
------------------------------------------- */
+================================================================ */
 
 async function main() {
   console.log("🚀 Starting GitHub Profile Dashboard...");
@@ -368,14 +380,14 @@ async function main() {
     0
   );
 
+  const languageSection =
+    createLanguageSection(languages);
+
   const topRepositories =
     createTopRepositories(repositories);
 
-  const languageStats =
-    createLanguageStats(languages);
-
-  const recentRepositories =
-    createRecentRepositories(repositories);
+  const recentActivity =
+    createRecentActivity(repositories);
 
   const generatedAt = new Date().toLocaleString(
     "en-IN",
@@ -386,33 +398,21 @@ async function main() {
     }
   );
 
-  /* -----------------------------------------
+  /* ================================================================
      DASHBOARD
-  ------------------------------------------ */
+  ================================================================ */
 
   const dashboard = `<!--START_SECTION:github-dashboard-->
 
 <div align="center">
 
-# 📊 GitHub Dashboard
-
-### 👨‍💻 ${escapeHtml(user.name || username)}
+### ⚡ GitHub Statistics
 
 <p>
-<strong>Frontend Developer • React.js • JavaScript • Node.js</strong>
-</p>
-
-<p>
-<a href="https://github.com/${username}">
-<img src="https://img.shields.io/badge/GitHub-${username}-181717?style=flat-square&logo=github" />
-</a>
+<sub>Automatically generated from GitHub data</sub>
 </p>
 
 </div>
-
-<br>
-
-<!-- PROFILE STATS -->
 
 <table align="center">
 
@@ -451,72 +451,6 @@ async function main() {
 </td>
 
 <td align="center">
-<strong>👀 ${formatNumber(
-    user.following
-  )}</strong>
-<br>
-<sub>Following</sub>
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-## 🏆 Top Repositories
-
-${topRepositories}
-
-<br>
-
-## 💻 Code Distribution
-
-<p>
-Languages detected across repository source code.
-</p>
-
-${languageStats}
-
-<br>
-
-## 🚀 Recent Activity
-
-${recentRepositories}
-
-<br>
-
-## 📈 GitHub Overview
-
-<table width="100%">
-
-<tr>
-
-<td align="center">
-<strong>📦 ${formatNumber(
-    repositories.length
-  )}</strong>
-<br>
-<sub>Public Repositories</sub>
-</td>
-
-<td align="center">
-<strong>⭐ ${formatNumber(
-    totalStars
-  )}</strong>
-<br>
-<sub>Total Stars</sub>
-</td>
-
-<td align="center">
-<strong>🍴 ${formatNumber(
-    totalForks
-  )}</strong>
-<br>
-<sub>Total Forks</sub>
-</td>
-
-<td align="center">
 <strong>🐛 ${formatNumber(
     totalIssues
   )}</strong>
@@ -530,25 +464,43 @@ ${recentRepositories}
 
 <br>
 
+### 🏆 Top Repositories
+
+${topRepositories}
+
+<br>
+
+### 💻 Code Distribution
+
+${languageSection}
+
+<br>
+
+### 🚀 Recent Repository Activity
+
+${recentActivity}
+
+<br>
+
 <div align="center">
 
 <sub>
-⚡ Automatically updated using GitHub Actions
+🕐 Last updated: ${generatedAt} IST
 </sub>
 
 <br>
 
 <sub>
-Last updated: ${generatedAt} IST
+🤖 Powered by GitHub Actions
 </sub>
 
 </div>
 
 <!--END_SECTION:github-dashboard-->`;
 
-  /* -----------------------------------------
+  /* ================================================================
      UPDATE README
-  ------------------------------------------ */
+  ================================================================ */
 
   const readmePath = "README.md";
 
@@ -573,7 +525,10 @@ Last updated: ${generatedAt} IST
   const endIndex =
     readme.indexOf(endMarker);
 
-  if (startIndex === -1 || endIndex === -1) {
+  if (
+    startIndex === -1 ||
+    endIndex === -1
+  ) {
     throw new Error(
       `Dashboard markers were not found in README.md.
 
