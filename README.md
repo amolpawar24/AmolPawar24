@@ -229,6 +229,23 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </div>
 
 <!--START_SECTION:repo-commits-->
+
+**Total commits across all repos: 368**
+
+| Repository | Commits |
+|---|---|
+| [Amol-Portfolio](https://github.com/amolpawar24/Amol-Portfolio) | 124 |
+| [Portfolio-5](https://github.com/amolpawar24/Portfolio-5) | 114 |
+| [ReactJs](https://github.com/amolpawar24/ReactJs) | 39 |
+| [Bike-Rental](https://github.com/amolpawar24/Bike-Rental) | 23 |
+| [JavaScript](https://github.com/amolpawar24/JavaScript) | 20 |
+| [AmolPawar24](https://github.com/amolpawar24/AmolPawar24) | 19 |
+| [HTML5](https://github.com/amolpawar24/HTML5) | 17 |
+| [Advanced-Java](https://github.com/amolpawar24/Advanced-Java) | 3 |
+| [Core-Java](https://github.com/amolpawar24/Core-Java) | 3 |
+| [CSS3](https://github.com/amolpawar24/CSS3) | 3 |
+| [NodeJS](https://github.com/amolpawar24/NodeJS) | 3 |
+
 <!--END_SECTION:repo-commits-->
 
 <br clear="both">
