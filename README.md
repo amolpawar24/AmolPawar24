@@ -1,3 +1,11 @@
+```md
+## 📊 GitHub Dashboard
+
+<!--START_SECTION:github-dashboard-->
+<!--END_SECTION:github-dashboard-->
+```
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--            HEADER BANNER SECTION (MODERNIZED)                  -->
 <!--        Gradient waving banner + animated typing tagline        -->
