@@ -214,39 +214,94 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <div align="center">
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              REPOSITORIES & COMMITS METRICS                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              REPOSITORIES & COMMITS METRICS (NEW)              -->
-<!--   Auto-generated table of repos + commit counts.               -->
-<!--   Populated by .github/workflows/repo-commits.yml —            -->
-<!--   do not edit the content between the markers by hand,         -->
-<!--   the workflow overwrites it on every run.                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ### 📊 Repository Commits
+
+<p>
+  <img src="https://img.shields.io/badge/Total%20Commits-368-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-11-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 </div>
 
 <!--START_SECTION:repo-commits-->
 
-**Total commits across all repos: 368**
+<div align="center">
 
-| Repository | Commits |
-|---|---|
-| [Amol-Portfolio](https://github.com/amolpawar24/Amol-Portfolio) | 124 |
-| [Portfolio-5](https://github.com/amolpawar24/Portfolio-5) | 114 |
-| [ReactJs](https://github.com/amolpawar24/ReactJs) | 39 |
-| [Bike-Rental](https://github.com/amolpawar24/Bike-Rental) | 23 |
-| [JavaScript](https://github.com/amolpawar24/JavaScript) | 20 |
-| [AmolPawar24](https://github.com/amolpawar24/AmolPawar24) | 19 |
-| [HTML5](https://github.com/amolpawar24/HTML5) | 17 |
-| [Advanced-Java](https://github.com/amolpawar24/Advanced-Java) | 3 |
-| [Core-Java](https://github.com/amolpawar24/Core-Java) | 3 |
-| [CSS3](https://github.com/amolpawar24/CSS3) | 3 |
-| [NodeJS](https://github.com/amolpawar24/NodeJS) | 3 |
+<table>
+<thead>
+<tr>
+<th>📦 Repository</th>
+<th>💻 Commits</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/amolpawar24/Amol-Portfolio"><b>Amol-Portfolio</b></a></td>
+<td align="center"><b>124</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/Portfolio-5"><b>Portfolio-5</b></a></td>
+<td align="center"><b>114</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/ReactJs"><b>ReactJs</b></a></td>
+<td align="center"><b>39</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/Bike-Rental"><b>Bike-Rental</b></a></td>
+<td align="center"><b>23</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/JavaScript"><b>JavaScript</b></a></td>
+<td align="center"><b>20</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><b>AmolPawar24</b></a></td>
+<td align="center"><b>19</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/HTML5"><b>HTML5</b></a></td>
+<td align="center"><b>17</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/Advanced-Java"><b>Advanced-Java</b></a></td>
+<td align="center"><b>3</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/Core-Java"><b>Core-Java</b></a></td>
+<td align="center"><b>3</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/CSS3"><b>CSS3</b></a></td>
+<td align="center"><b>3</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/NodeJS"><b>NodeJS</b></a></td>
+<td align="center"><b>3</b></td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/🔥%20Total%20Commits-368-6D28D9?style=for-the-badge" />
+
+</div>
 
 <!--END_SECTION:repo-commits-->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER LINE                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+<img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
 
 <br clear="both">
 
@@ -322,7 +377,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
   </a>
 
   <!-- LinkedIn Profile Link -->
-  <a href="[https://www.linkedin.com/in/amolpawar-dev/](https://www.linkedin.com/in/amolpawar24/)" target="_blank">
+  <a href="https://www.linkedin.com/in/amolpawar24/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"          alt="linkedin logo" />
   </a>
 
