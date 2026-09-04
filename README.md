@@ -216,6 +216,24 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              REPOSITORIES & COMMITS METRICS (NEW)              -->
+<!--   Auto-generated table of repos + commit counts.               -->
+<!--   Populated by .github/workflows/repo-commits.yml —            -->
+<!--   do not edit the content between the markers by hand,         -->
+<!--   the workflow overwrites it on every run.                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+### 📊 Repository Commits
+
+</div>
+
+<!--START_SECTION:repo-commits-->
+<!--END_SECTION:repo-commits-->
+
+<br clear="both">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    FUN QUOTE BANNER (NEW)                      -->
 <!--   Zero-setup decorative banner — same capsule-render service   -->
 <!--   already used in the header/footer of this file.               -->
