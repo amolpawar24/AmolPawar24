@@ -1,4 +1,3 @@
-```javascript
 const fs = require("fs");
 
 const username = process.env.GH_USERNAME;
@@ -546,4 +545,3 @@ main().catch((error) => {
 
   process.exit(1);
 });
-```
