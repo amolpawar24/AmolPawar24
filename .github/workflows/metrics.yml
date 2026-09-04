@@ -1,0 +1,22 @@
+name: Metrics
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.repositories.svg
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_order: featured, activity
+          plugin_repositories_featured: BPL-Official, BPL-Admin-Dashboard, BPL-Backend-API
+          plugin_lines: yes
+          plugin_lines_history_limit: 30
