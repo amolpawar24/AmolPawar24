@@ -15,7 +15,9 @@ const headers = {
 };
 
 async function github(url) {
-  const response = await fetch(url, { headers });
+  const response = await fetch(url, {
+    headers,
+  });
 
   if (!response.ok) {
     throw new Error(
@@ -117,7 +119,7 @@ async function getLanguages(repositories) {
           (languageTotals[language] || 0) + bytes;
       }
     } catch (error) {
-      console.log(`Skipping languages: ${repo.name}`);
+      console.log(`Skipping languages for ${repo.name}`);
     }
   }
 
@@ -131,20 +133,26 @@ function createLanguageStats(languageTotals) {
   );
 
   if (!totalBytes) {
-    return "<p>No language statistics available.</p>";
+    return `
+<tr>
+<td colspan="3" align="center">
+No language statistics available.
+</td>
+</tr>
+`;
   }
 
-  const languages = Object.entries(languageTotals)
+  return Object.entries(languageTotals)
     .sort((a, b) => b[1] - a[1])
-    .slice(0, 6);
-
-  return languages
+    .slice(0, 6)
     .map(([language, bytes]) => {
       const percentage = ((bytes / totalBytes) * 100).toFixed(1);
 
       return `
 <tr>
-<td width="150"><strong>${escapeHtml(language)}</strong></td>
+<td width="150">
+<strong>${escapeHtml(language)}</strong>
+</td>
 
 <td width="400">
 
@@ -158,7 +166,7 @@ overflow:hidden;
 <div style="
 width:${percentage}%;
 height:100%;
-background:linear-gradient(90deg,#6366f1,#8b5cf6);
+background:#6366f1;
 border-radius:20px;
 "></div>
 
@@ -184,6 +192,16 @@ function createTopRepositories(repositories) {
         b.forks_count - a.forks_count
     )
     .slice(0, 5);
+
+  if (!topRepositories.length) {
+    return `
+<tr>
+<td colspan="5" align="center">
+No repositories found.
+</td>
+</tr>
+`;
+  }
 
   return topRepositories
     .map(
@@ -228,8 +246,24 @@ ${escapeHtml(repo.language || "—")}
 }
 
 function createRecentRepositories(repositories) {
-  return repositories
-    .slice(0, 6)
+  const recentRepositories = [...repositories]
+    .sort(
+      (a, b) =>
+        new Date(b.pushed_at) - new Date(a.pushed_at)
+    )
+    .slice(0, 6);
+
+  if (!recentRepositories.length) {
+    return `
+<tr>
+<td colspan="3" align="center">
+No recent repositories found.
+</td>
+</tr>
+`;
+  }
+
+  return recentRepositories
     .map(
       (repo) => `
 <tr>
@@ -261,9 +295,17 @@ async function main() {
     `https://api.github.com/users/${username}`
   );
 
+  console.log("✅ User information loaded.");
+
   const repositories = await getRepositories();
 
+  console.log(
+    `✅ Found ${repositories.length} repositories.`
+  );
+
   const languages = await getLanguages(repositories);
+
+  console.log("✅ Language statistics loaded.");
 
   const totalStars = repositories.reduce(
     (total, repo) => total + repo.stargazers_count,
@@ -280,22 +322,25 @@ async function main() {
     0
   );
 
-  const languageStats = createLanguageStats(languages);
+  const languageStats =
+    createLanguageStats(languages);
 
-  const topRepositories = createTopRepositories(repositories);
+  const topRepositories =
+    createTopRepositories(repositories);
 
   const recentRepositories =
     createRecentRepositories(repositories);
 
-  const generatedAt = new Date().toLocaleString("en-IN", {
-    timeZone: "Asia/Kolkata",
-    dateStyle: "medium",
-    timeStyle: "short",
-  });
+  const generatedAt = new Date().toLocaleString(
+    "en-IN",
+    {
+      timeZone: "Asia/Kolkata",
+      dateStyle: "medium",
+      timeStyle: "short",
+    }
+  );
 
-  const dashboard = `
-
-<!--START_SECTION:github-dashboard-->
+  const dashboard = `<!--START_SECTION:github-dashboard-->
 
 <div align="center">
 
@@ -432,9 +477,7 @@ Generated automatically using GitHub Actions 🤖
 
 </div>
 
-<!--END_SECTION:github-dashboard-->
-
-`;
+<!--END_SECTION:github-dashboard-->`;
 
   const readmePath = "README.md";
 
@@ -442,7 +485,10 @@ Generated automatically using GitHub Actions 🤖
     throw new Error("README.md was not found.");
   }
 
-  let readme = fs.readFileSync(readmePath, "utf8");
+  let readme = fs.readFileSync(
+    readmePath,
+    "utf8"
+  );
 
   const startMarker =
     "<!--START_SECTION:github-dashboard-->";
@@ -450,32 +496,41 @@ Generated automatically using GitHub Actions 🤖
   const endMarker =
     "<!--END_SECTION:github-dashboard-->";
 
-  const startIndex = readme.indexOf(startMarker);
-  const endIndex = readme.indexOf(endMarker);
+  const startIndex =
+    readme.indexOf(startMarker);
+
+  const endIndex =
+    readme.indexOf(endMarker);
 
   if (startIndex === -1 || endIndex === -1) {
     throw new Error(
-      `Dashboard markers not found.
+      `Dashboard markers were not found in README.md.
 
-Add these markers to README.md:
+Please add:
 
 ${startMarker}
 ${endMarker}`
     );
   }
 
-  const before = readme.substring(0, startIndex);
+  const before =
+    readme.substring(0, startIndex);
 
-  const after = readme.substring(
-    endIndex + endMarker.length
-  );
+  const after =
+    readme.substring(
+      endIndex + endMarker.length
+    );
 
   readme =
     before +
-    dashboard.trim() +
+    dashboard +
     after;
 
-  fs.writeFileSync(readmePath, readme);
+  fs.writeFileSync(
+    readmePath,
+    readme,
+    "utf8"
+  );
 
   console.log(
     "✅ GitHub Profile Dashboard updated successfully!"
@@ -483,8 +538,12 @@ ${endMarker}`
 }
 
 main().catch((error) => {
-  console.error("❌ Dashboard update failed:");
+  console.error(
+    "❌ Dashboard update failed:"
+  );
+
   console.error(error);
+
   process.exit(1);
 });
 ```
