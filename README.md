@@ -238,35 +238,59 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 ### ⚡ GitHub Statistics
 
+<p>
 <sub>Automatically generated from GitHub data</sub>
+</p>
 
 </div>
 
 <table align="center">
 
 <tr>
-<td align="center"><strong>📦 11</strong><br><sub>Repositories</sub></td>
-<td align="center"><strong>⭐ 0</strong><br><sub>Stars</sub></td>
-<td align="center"><strong>🍴 0</strong><br><sub>Forks</sub></td>
-<td align="center"><strong>👥 0</strong><br><sub>Followers</sub></td>
-<td align="center"><strong>🐛 0</strong><br><sub>Open Issues</sub></td>
+
+<td align="center">
+<strong>📦 11</strong>
+<br>
+<sub>Repositories</sub>
+</td>
+
+<td align="center">
+<strong>⭐ 0</strong>
+<br>
+<sub>Stars</sub>
+</td>
+
+<td align="center">
+<strong>🍴 0</strong>
+<br>
+<sub>Forks</sub>
+</td>
+
+<td align="center">
+<strong>👥 0</strong>
+<br>
+<sub>Followers</sub>
+</td>
+
+<td align="center">
+<strong>🐛 0</strong>
+<br>
+<sub>Open Issues</sub>
+</td>
+
 </tr>
 
 </table>
 
 <br>
 
-<div align="center">
-
 ### 🏆 Top Repositories
-
-</div>
 
 <table width="100%">
 
 <tr>
 <th align="center">#</th>
-<th align="left">Repository</th>
+<th>Repository</th>
 <th align="center">Language</th>
 <th align="center">⭐</th>
 <th align="center">🍴</th>
@@ -274,23 +298,33 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>1</strong></td>
-<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
+<td>
+<a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a>
+<br>
+<sub>A comprehensive Advanced Java learning repository covering Multithreading, Concurrency, File Handlin...</sub>
+</td>
+<td align="center"><sub>—</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
 </tr>
 
 <tr>
 <td align="center"><strong>2</strong></td>
-<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a><br><sub>🚀 Complete JavaScript journey from basics to advanced concepts with practical examples, clean code, and hands-on learning.</sub></td>
-<td align="center"><sub>JavaScript</sub></td>
+<td>
+<a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a>
+<br>
+<sub>Personal portfolio website highlighting my work, technical skills, and projects — built to demonstra...</sub>
+</td>
+<td align="center"><sub>SCSS</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
 </tr>
 
 <tr>
 <td align="center"><strong>3</strong></td>
-<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a><br><sub>🚀 Complete React.js learning journey from fundamentals to advanced concepts, with practical examples and hands-on exercises.</sub></td>
+<td>
+<a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a>
+</td>
 <td align="center"><sub>JavaScript</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
@@ -298,15 +332,23 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>4</strong></td>
-<td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a><br><sub>A comprehensive Advanced Java learning repository covering Multithreading, Concurrency, File Handling, Serialization.</sub></td>
-<td align="center"><sub>—</sub></td>
+<td>
+<a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a>
+<br>
+<sub>🏍️ Modern & Responsive Bike Rental Website \| Explore Bikes, Scooters, Rental Categories, Brands, Ga...</sub>
+</td>
+<td align="center"><sub>CSS</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
 </tr>
 
 <tr>
 <td align="center"><strong>5</strong></td>
-<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a><br><sub>A complete Node.js learning journey — from core concepts and asynchronous programming to Express.js, REST APIs, and authentication.</sub></td>
+<td>
+<a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a>
+<br>
+<sub>☕ Core Java concepts, practical programs, OOP, Collections, Exception Handling, Strings, Arrays & mo...</sub>
+</td>
 <td align="center"><sub>—</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
@@ -314,8 +356,12 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>6</strong></td>
-<td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a><br><sub>🚀 A complete HTML5 learning repository covering modern web structure, semantic HTML, forms, tables, multimedia, accessibility.</sub></td>
-<td align="center"><sub>HTML</sub></td>
+<td>
+<a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a>
+<br>
+<sub>🎨 Master CSS3 from fundamentals to advanced concepts with selectors, box model, Flexbox, Grid, resp...</sub>
+</td>
+<td align="center"><sub>—</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
 </tr>
@@ -323,16 +369,15 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </table>
 
 <br>
-
-<div align="center">
 
 ### 💻 Code Distribution
 
-<img src="https://img.shields.io/badge/SCSS-32.0%25-6D28D9?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/TypeScript-27.4%25-6D28D9?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML-16.1%25-6D28D9?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-14.6%25-6D28D9?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-9.9%25-6D28D9?style=flat-square" alt="JavaScript" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-42.9%25-6D28D9?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SCSS-28.6%25-6D28D9?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/CSS-14.3%25-6D28D9?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/HTML-14.3%25-6D28D9?style=flat-square" alt="HTML" />
 
 </div>
 
@@ -341,50 +386,89 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <table width="100%">
 
 <tr>
-<th align="left">Language</th>
+<th>Language</th>
 <th align="right">Usage</th>
 </tr>
 
-<tr><td>SCSS</td><td align="right"><strong>32.0%</strong></td></tr>
-<tr><td>TypeScript</td><td align="right"><strong>27.4%</strong></td></tr>
-<tr><td>HTML</td><td align="right"><strong>16.1%</strong></td></tr>
-<tr><td>CSS</td><td align="right"><strong>14.6%</strong></td></tr>
-<tr><td>JavaScript</td><td align="right"><strong>9.9%</strong></td></tr>
+<tr>
+<td><strong>JavaScript</strong></td>
+<td align="right"><strong>42.9%</strong></td>
+</tr>
+
+<tr>
+<td><strong>SCSS</strong></td>
+<td align="right"><strong>28.6%</strong></td>
+</tr>
+
+<tr>
+<td><strong>CSS</strong></td>
+<td align="right"><strong>14.3%</strong></td>
+</tr>
+
+<tr>
+<td><strong>HTML</strong></td>
+<td align="right"><strong>14.3%</strong></td>
+</tr>
 
 </table>
 
 <br>
 
-<div align="center">
-
 ### 🚀 Recent Repository Activity
-
-</div>
 
 <table width="100%">
 
 <tr>
-<th align="left">Repository</th>
+<th>Repository</th>
 <th align="center">Language</th>
 <th align="right">Updated</th>
 </tr>
 
-<tr><td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td><td align="center"><sub>JavaScript</sub></td><td align="right"><sub>Just now</sub></td></tr>
-<tr><td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td><td align="center"><sub>JavaScript</sub></td><td align="right"><sub>1 hr ago</sub></td></tr>
-<tr><td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td><td align="center"><sub>JavaScript</sub></td><td align="right"><sub>1 day ago</sub></td></tr>
-<tr><td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td><td align="center"><sub>—</sub></td><td align="right"><sub>2 days ago</sub></td></tr>
-<tr><td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td><td align="center"><sub>—</sub></td><td align="right"><sub>3 days ago</sub></td></tr>
-<tr><td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td><td align="center"><sub>HTML</sub></td><td align="right"><sub>3 days ago</sub></td></tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>Just now</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>1 hr ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>1 day ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
+<td align="center"><sub>—</sub></td>
+<td align="right"><sub>2 days ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
+<td align="center"><sub>—</sub></td>
+<td align="right"><sub>3 days ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
+<td align="center"><sub>HTML</sub></td>
+<td align="right"><sub>3 days ago</sub></td>
+</tr>
 
 </table>
 
 <br>
 
-<div align="center">
-
 ### 📊 Repository Commits
 
-<img src="https://img.shields.io/badge/Total%20Commits-368-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Total%20Commits-390-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-11-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -394,22 +478,69 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <table width="100%">
 
 <tr>
-<th align="left">📦 Repository</th>
+<th>📦 Repository</th>
 <th align="right">💻 Commits</th>
 </tr>
 
-<tr><td><a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a></td><td align="right">124</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td><td align="right">114</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td><td align="right">39</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a></td><td align="right">23</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td><td align="right">20</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td><td align="right">19</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td><td align="right">17</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td><td align="right">3</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td><td align="right">3</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td><td align="right">3</td></tr>
-<tr><td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td><td align="right">3</td></tr>
-<tr><td><strong>Total</strong></td><td align="right"><strong>368</strong></td></tr>
+<tr>
+<td><a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a></td>
+<td align="right">124</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td>
+<td align="right">114</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td align="right">41</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
+<td align="right">39</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a></td>
+<td align="right">23</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
+<td align="right">20</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
+<td align="right">17</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td align="right"><strong>390</strong></td>
+</tr>
 
 </table>
 
@@ -417,8 +548,10 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<sub>🕐 Last updated: 4 Sept 2026, 9:32 pm IST</sub>
+<sub>🕐 Last updated: 4 Sept 2026, 10:11 pm IST</sub>
+
 <br>
+
 <sub>🤖 Powered by GitHub Actions</sub>
 
 </div>
