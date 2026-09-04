@@ -16,7 +16,6 @@
 
 <br clear="both">
 
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     QUICK INFO BADGES                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -31,39 +30,35 @@
 
 <br clear="both">
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DIVIDER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
+## 👨‍💻 About Me
+
+</div>
+
 <img align="left" height="355" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" />
+
+- 🚀 MERN Stack Developer focused on building clean, scalable web applications
+- 🌱 Currently deepening my skills across React, Node.js, and MongoDB
+- 📍 Based in Maharashtra, India
+- 💼 Open to full-stack development opportunities
+- ⚡ Fun fact: Code. Break. Fix. Repeat.
 
 <img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
 <br clear="both">
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DIVIDER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TECH SKILLS                              -->
@@ -71,89 +66,61 @@
 
 <div align="center">
 
+## 🛠️ Tech Skills
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5 logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="css3 logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="javascript logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="65" alt="bootstrap logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="65" alt="jquery logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="65" alt="tailwindcss logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="react logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="65" alt="materialui logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="65" alt="scss logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="65" alt="redux logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="65" alt="nextjs logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" alt="nodejs logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="65" alt="expressjs logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="mongodb logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" alt="mysql logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" alt="java logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="65" alt="postman logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65" alt="vscode logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="65" alt="android studio logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="65" alt="eclipse logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="65" alt="apache tomcat logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="65" alt="cloudflare logo" />
   <img width="24" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" alt="github logo" />
 
 </div>
 
 <br clear="both">
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DIVIDER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                          -->
@@ -165,7 +132,7 @@
 
 </div>
 
-<table>
+<table width="100%">
 
 <tr>
 
@@ -227,17 +194,9 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <br clear="both">
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DIVIDER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      GITHUB STREAK                             -->
@@ -245,29 +204,33 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
+### 🔥 GitHub Streak
+
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=amolpawar24&locale=en&mode=daily&theme=radical&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" />
 
 </div>
 
 <br clear="both">
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DIVIDER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     GITHUB DASHBOARD                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--
+  NOTE: Everything between START_SECTION and END_SECTION below is
+  auto-generated by scripts/generate-dashboard.js via GitHub Actions.
+  Do not edit this block by hand — your edits will be overwritten on
+  the next workflow run. Edit the generator script instead.
+-->
+
+<div align="center">
 
 ## 📊 GitHub Dashboard
+
+</div>
 
 <!--START_SECTION:github-dashboard-->
 
@@ -275,59 +238,35 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 ### ⚡ GitHub Statistics
 
-<p>
 <sub>Automatically generated from GitHub data</sub>
-</p>
 
 </div>
 
 <table align="center">
 
 <tr>
-
-<td align="center">
-<strong>📦 11</strong>
-<br>
-<sub>Repositories</sub>
-</td>
-
-<td align="center">
-<strong>⭐ 0</strong>
-<br>
-<sub>Stars</sub>
-</td>
-
-<td align="center">
-<strong>🍴 0</strong>
-<br>
-<sub>Forks</sub>
-</td>
-
-<td align="center">
-<strong>👥 0</strong>
-<br>
-<sub>Followers</sub>
-</td>
-
-<td align="center">
-<strong>🐛 0</strong>
-<br>
-<sub>Open Issues</sub>
-</td>
-
+<td align="center"><strong>📦 11</strong><br><sub>Repositories</sub></td>
+<td align="center"><strong>⭐ 0</strong><br><sub>Stars</sub></td>
+<td align="center"><strong>🍴 0</strong><br><sub>Forks</sub></td>
+<td align="center"><strong>👥 0</strong><br><sub>Followers</sub></td>
+<td align="center"><strong>🐛 0</strong><br><sub>Open Issues</sub></td>
 </tr>
 
 </table>
 
 <br>
 
+<div align="center">
+
 ### 🏆 Top Repositories
+
+</div>
 
 <table width="100%">
 
 <tr>
 <th align="center">#</th>
-<th>Repository</th>
+<th align="left">Repository</th>
 <th align="center">Language</th>
 <th align="center">⭐</th>
 <th align="center">🍴</th>
@@ -335,9 +274,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>1</strong></td>
-<td>
-<a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a>
-</td>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
@@ -345,11 +282,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>2</strong></td>
-<td>
-<a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a>
-<br>
-<sub>🚀 Complete JavaScript journey from basics to advanced concepts with practical examples, clean code, and hands-on lea...</sub>
-</td>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a><br><sub>🚀 Complete JavaScript journey from basics to advanced concepts with practical examples, clean code, and hands-on learning.</sub></td>
 <td align="center"><sub>JavaScript</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
@@ -357,11 +290,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>3</strong></td>
-<td>
-<a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a>
-<br>
-<sub>🚀 Complete React.js learning journey from fundamentals to advanced concepts, with practical examples, hands-on exerc...</sub>
-</td>
+<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a><br><sub>🚀 Complete React.js learning journey from fundamentals to advanced concepts, with practical examples and hands-on exercises.</sub></td>
 <td align="center"><sub>JavaScript</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
@@ -369,11 +298,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>4</strong></td>
-<td>
-<a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a>
-<br>
-<sub>A comprehensive Advanced Java learning repository covering Multithreading, Concurrency, File Handling, Serialization,...</sub>
-</td>
+<td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a><br><sub>A comprehensive Advanced Java learning repository covering Multithreading, Concurrency, File Handling, Serialization.</sub></td>
 <td align="center"><sub>—</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
@@ -381,11 +306,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>5</strong></td>
-<td>
-<a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a>
-<br>
-<sub>A complete Node.js learning journey — from core concepts and asynchronous programming to Express.js, REST APIs, authe...</sub>
-</td>
+<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a><br><sub>A complete Node.js learning journey — from core concepts and asynchronous programming to Express.js, REST APIs, and authentication.</sub></td>
 <td align="center"><sub>—</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
@@ -393,11 +314,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td align="center"><strong>6</strong></td>
-<td>
-<a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a>
-<br>
-<sub>🚀 A complete HTML5 learning repository covering modern web structure, semantic HTML, forms, tables, multimedia, acce...</sub>
-</td>
+<td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a><br><sub>🚀 A complete HTML5 learning repository covering modern web structure, semantic HTML, forms, tables, multimedia, accessibility.</sub></td>
 <td align="center"><sub>HTML</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
@@ -407,9 +324,9 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <br>
 
-### 💻 Code Distribution
-
 <div align="center">
+
+### 💻 Code Distribution
 
 <img src="https://img.shields.io/badge/SCSS-32.0%25-6D28D9?style=flat-square" alt="SCSS" />
 <img src="https://img.shields.io/badge/TypeScript-27.4%25-6D28D9?style=flat-square" alt="TypeScript" />
@@ -424,92 +341,48 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <table width="100%">
 
 <tr>
-<th>Language</th>
+<th align="left">Language</th>
 <th align="right">Usage</th>
 </tr>
 
-<tr>
-<td><strong>SCSS</strong></td>
-<td align="right"><strong>32.0%</strong></td>
-</tr>
-
-<tr>
-<td><strong>TypeScript</strong></td>
-<td align="right"><strong>27.4%</strong></td>
-</tr>
-
-<tr>
-<td><strong>HTML</strong></td>
-<td align="right"><strong>16.1%</strong></td>
-</tr>
-
-<tr>
-<td><strong>CSS</strong></td>
-<td align="right"><strong>14.6%</strong></td>
-</tr>
-
-<tr>
-<td><strong>JavaScript</strong></td>
-<td align="right"><strong>9.9%</strong></td>
-</tr>
+<tr><td>SCSS</td><td align="right"><strong>32.0%</strong></td></tr>
+<tr><td>TypeScript</td><td align="right"><strong>27.4%</strong></td></tr>
+<tr><td>HTML</td><td align="right"><strong>16.1%</strong></td></tr>
+<tr><td>CSS</td><td align="right"><strong>14.6%</strong></td></tr>
+<tr><td>JavaScript</td><td align="right"><strong>9.9%</strong></td></tr>
 
 </table>
 
 <br>
 
+<div align="center">
+
 ### 🚀 Recent Repository Activity
+
+</div>
 
 <table width="100%">
 
 <tr>
-<th>Repository</th>
+<th align="left">Repository</th>
 <th align="center">Language</th>
 <th align="right">Updated</th>
 </tr>
 
-<tr>
-<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>Just now</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>1 hr ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
-<td align="center"><sub>—</sub></td>
-<td align="right"><sub>2 days ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
-<td align="center"><sub>—</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
-<td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
-</tr>
+<tr><td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td><td align="center"><sub>JavaScript</sub></td><td align="right"><sub>Just now</sub></td></tr>
+<tr><td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td><td align="center"><sub>JavaScript</sub></td><td align="right"><sub>1 hr ago</sub></td></tr>
+<tr><td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td><td align="center"><sub>JavaScript</sub></td><td align="right"><sub>1 day ago</sub></td></tr>
+<tr><td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td><td align="center"><sub>—</sub></td><td align="right"><sub>2 days ago</sub></td></tr>
+<tr><td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td><td align="center"><sub>—</sub></td><td align="right"><sub>3 days ago</sub></td></tr>
+<tr><td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td><td align="center"><sub>HTML</sub></td><td align="right"><sub>3 days ago</sub></td></tr>
 
 </table>
 
 <br>
 
-### 📊 Repository Commits
-
 <div align="center">
+
+### 📊 Repository Commits
 
 <img src="https://img.shields.io/badge/Total%20Commits-368-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-11-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
@@ -521,69 +394,22 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <table width="100%">
 
 <tr>
-<th>📦 Repository</th>
+<th align="left">📦 Repository</th>
 <th align="right">💻 Commits</th>
 </tr>
 
-<tr>
-<td><a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a></td>
-<td align="right">124</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td>
-<td align="right">114</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
-<td align="right">39</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a></td>
-<td align="right">23</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
-<td align="right">20</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">19</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
-<td align="right">17</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
-<td align="right">3</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
-<td align="right">3</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
-<td align="right">3</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
-<td align="right">3</td>
-</tr>
-
-<tr>
-<td><strong>Total</strong></td>
-<td align="right"><strong>368</strong></td>
-</tr>
+<tr><td><a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a></td><td align="right">124</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td><td align="right">114</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td><td align="right">39</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a></td><td align="right">23</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td><td align="right">20</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td><td align="right">19</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td><td align="right">17</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td><td align="right">3</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td><td align="right">3</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td><td align="right">3</td></tr>
+<tr><td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td><td align="right">3</td></tr>
+<tr><td><strong>Total</strong></td><td align="right"><strong>368</strong></td></tr>
 
 </table>
 
@@ -592,26 +418,18 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <div align="center">
 
 <sub>🕐 Last updated: 4 Sept 2026, 9:32 pm IST</sub>
-
 <br>
-
 <sub>🤖 Powered by GitHub Actions</sub>
 
 </div>
 
 <!--END_SECTION:github-dashboard-->
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DIVIDER                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br clear="both">
 
 <div align="center">
-
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       FUN QUOTE                                -->
@@ -625,12 +443,13 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <br clear="both">
 
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  PROFILE SUMMARY                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+### 📈 Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amolpawar24&theme=radical" height="150" />
 
@@ -638,12 +457,13 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <br clear="both">
 
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     CODING ACTIVITY                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+### ⌨️ Coding Activity
 
 <img height="500" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" />
 
@@ -651,23 +471,17 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <br clear="both">
 
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     DIVIDER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
 </div>
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     SOCIAL MEDIA                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+### 🌐 Connect With Me
 
 <a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="facebook logo" />
@@ -705,17 +519,14 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <br clear="both">
 
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     FOOTER ANIMATIONS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" />
-
 <img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 <br clear="both">
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     SNAKE ANIMATION                            -->
@@ -729,7 +540,6 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <br clear="both">
 
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ACTIVITY GRAPH                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -742,7 +552,6 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <br clear="both">
 
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     VISITOR COUNTER                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -754,7 +563,6 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </div>
 
 <br clear="both">
-
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         FOOTER                                 -->
@@ -773,7 +581,6 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer" width="100%"/>
 
 </div>
-
 
 <!---
 ═══════════════════════════════════════════════════════════════════
