@@ -14,9 +14,7 @@ const headers = {
 };
 
 async function github(url) {
-  const response = await fetch(url, {
-    headers,
-  });
+  const response = await fetch(url, { headers });
 
   if (!response.ok) {
     throw new Error(
@@ -46,9 +44,7 @@ function getRelativeTime(dateString) {
 
   const seconds = Math.floor((now - date) / 1000);
 
-  if (seconds < 60) {
-    return "Just now";
-  }
+  if (seconds < 60) return "Just now";
 
   const minutes = Math.floor(seconds / 60);
 
@@ -79,6 +75,10 @@ function getRelativeTime(dateString) {
   return `${years} year${years === 1 ? "" : "s"} ago`;
 }
 
+/* -----------------------------------------
+   GET ALL REPOSITORIES
+------------------------------------------ */
+
 async function getRepositories() {
   let repositories = [];
   let page = 1;
@@ -104,6 +104,10 @@ async function getRepositories() {
   return repositories.filter((repo) => !repo.fork);
 }
 
+/* -----------------------------------------
+   GET LANGUAGE STATISTICS
+------------------------------------------ */
+
 async function getLanguages(repositories) {
   const languageTotals = {};
 
@@ -117,13 +121,17 @@ async function getLanguages(repositories) {
         languageTotals[language] =
           (languageTotals[language] || 0) + bytes;
       }
-    } catch (error) {
+    } catch {
       console.log(`Skipping languages for ${repo.name}`);
     }
   }
 
   return languageTotals;
 }
+
+/* -----------------------------------------
+   CODE DISTRIBUTION
+------------------------------------------ */
 
 function createLanguageStats(languageTotals) {
   const totalBytes = Object.values(languageTotals).reduce(
@@ -133,116 +141,138 @@ function createLanguageStats(languageTotals) {
 
   if (!totalBytes) {
     return `
-<tr>
-<td colspan="3" align="center">
+<p align="center">
 No language statistics available.
-</td>
-</tr>
+</p>
 `;
   }
 
-  return Object.entries(languageTotals)
+  const languages = Object.entries(languageTotals)
     .sort((a, b) => b[1] - a[1])
-    .slice(0, 6)
+    .slice(0, 6);
+
+  const badges = languages
     .map(([language, bytes]) => {
       const percentage = ((bytes / totalBytes) * 100).toFixed(1);
 
       return `
-<tr>
-<td width="150">
-<strong>${escapeHtml(language)}</strong>
-</td>
+<a href="#">
+<img
+src="https://img.shields.io/badge/${encodeURIComponent(
+        language
+      )}-${percentage}%25-0969DA?style=flat-square"
+alt="${escapeHtml(language)} ${percentage}%"
+/>
+</a>
+`;
+    })
+    .join(" ");
 
-<td width="400">
+  return `
+<div align="center">
 
-<div style="
-background:#e5e7eb;
-border-radius:20px;
-height:10px;
-overflow:hidden;
-">
-
-<div style="
-width:${percentage}%;
-height:100%;
-background:#6366f1;
-border-radius:20px;
-"></div>
+${badges}
 
 </div>
 
-</td>
+<br>
 
-<td align="right">
-<strong>${percentage}%</strong>
-</td>
+<table align="center">
 
+${languages
+  .map(([language, bytes]) => {
+    const percentage = ((bytes / totalBytes) * 100).toFixed(1);
+
+    return `
+<tr>
+<td><strong>${escapeHtml(language)}</strong></td>
+<td align="right"><strong>${percentage}%</strong></td>
 </tr>
 `;
-    })
-    .join("");
+  })
+  .join("")}
+
+</table>
+`;
 }
+
+/* -----------------------------------------
+   TOP REPOSITORIES
+------------------------------------------ */
 
 function createTopRepositories(repositories) {
   const topRepositories = [...repositories]
     .sort(
       (a, b) =>
         b.stargazers_count - a.stargazers_count ||
-        b.forks_count - a.forks_count
+        b.forks_count - a.forks_count ||
+        new Date(b.pushed_at) - new Date(a.pushed_at)
     )
     .slice(0, 5);
 
   if (!topRepositories.length) {
     return `
-<tr>
-<td colspan="5" align="center">
+<p align="center">
 No repositories found.
-</td>
-</tr>
+</p>
 `;
   }
 
-  return topRepositories
-    .map(
-      (repo, index) => `
+  return `
+<table width="100%">
+
+<tr>
+<th align="center">#</th>
+<th>Repository</th>
+<th align="center">Language</th>
+<th align="center">⭐</th>
+<th align="center">🍴</th>
+</tr>
+
+${topRepositories
+  .map(
+    (repo, index) => `
 <tr>
 
 <td align="center">
-<strong>#${index + 1}</strong>
+<strong>${index + 1}</strong>
 </td>
 
 <td>
 <a href="${repo.html_url}">
 <strong>${escapeHtml(repo.name)}</strong>
 </a>
-
-<br>
-
-<sub>
-${escapeHtml(
-  repo.description || "No repository description available."
-)}
-</sub>
-
-</td>
-
-<td align="center">
-⭐ ${repo.stargazers_count}
-</td>
-
-<td align="center">
-🍴 ${repo.forks_count}
+${
+  repo.description
+    ? `<br><sub>${escapeHtml(repo.description)}</sub>`
+    : ""
+}
 </td>
 
 <td align="center">
 ${escapeHtml(repo.language || "—")}
 </td>
 
+<td align="center">
+${formatNumber(repo.stargazers_count)}
+</td>
+
+<td align="center">
+${formatNumber(repo.forks_count)}
+</td>
+
 </tr>
 `
-    )
-    .join("");
+  )
+  .join("")}
+
+</table>
+`;
 }
+
+/* -----------------------------------------
+   RECENTLY UPDATED
+------------------------------------------ */
 
 function createRecentRepositories(repositories) {
   const recentRepositories = [...repositories]
@@ -254,17 +284,24 @@ function createRecentRepositories(repositories) {
 
   if (!recentRepositories.length) {
     return `
-<tr>
-<td colspan="3" align="center">
-No recent repositories found.
-</td>
-</tr>
+<p align="center">
+No recent activity available.
+</p>
 `;
   }
 
-  return recentRepositories
-    .map(
-      (repo) => `
+  return `
+<table width="100%">
+
+<tr>
+<th>Repository</th>
+<th align="center">Language</th>
+<th align="right">Updated</th>
+</tr>
+
+${recentRepositories
+  .map(
+    (repo) => `
 <tr>
 
 <td>
@@ -273,19 +310,26 @@ No recent repositories found.
 </a>
 </td>
 
-<td>
+<td align="center">
 ${escapeHtml(repo.language || "—")}
 </td>
 
-<td>
-${getRelativeTime(repo.pushed_at)}
+<td align="right">
+<sub>${getRelativeTime(repo.pushed_at)}</sub>
 </td>
 
 </tr>
 `
-    )
-    .join("");
+  )
+  .join("")}
+
+</table>
+`;
 }
+
+/* -----------------------------------------
+   MAIN
+------------------------------------------ */
 
 async function main() {
   console.log("🚀 Starting GitHub Profile Dashboard...");
@@ -307,25 +351,28 @@ async function main() {
   console.log("✅ Language statistics loaded.");
 
   const totalStars = repositories.reduce(
-    (total, repo) => total + repo.stargazers_count,
+    (total, repo) =>
+      total + repo.stargazers_count,
     0
   );
 
   const totalForks = repositories.reduce(
-    (total, repo) => total + repo.forks_count,
+    (total, repo) =>
+      total + repo.forks_count,
     0
   );
 
   const totalIssues = repositories.reduce(
-    (total, repo) => total + repo.open_issues_count,
+    (total, repo) =>
+      total + repo.open_issues_count,
     0
   );
 
-  const languageStats =
-    createLanguageStats(languages);
-
   const topRepositories =
     createTopRepositories(repositories);
+
+  const languageStats =
+    createLanguageStats(languages);
 
   const recentRepositories =
     createRecentRepositories(repositories);
@@ -339,96 +386,103 @@ async function main() {
     }
   );
 
+  /* -----------------------------------------
+     DASHBOARD
+  ------------------------------------------ */
+
   const dashboard = `<!--START_SECTION:github-dashboard-->
 
 <div align="center">
 
-# 📊 GitHub Profile Dashboard
+# 📊 GitHub Dashboard
 
 ### 👨‍💻 ${escapeHtml(user.name || username)}
 
 <p>
-<strong>Full Stack Developer • React • JavaScript • Node.js</strong>
+<strong>Frontend Developer • React.js • JavaScript • Node.js</strong>
+</p>
+
+<p>
+<a href="https://github.com/${username}">
+<img src="https://img.shields.io/badge/GitHub-${username}-181717?style=flat-square&logo=github" />
+</a>
 </p>
 
 </div>
 
 <br>
 
+<!-- PROFILE STATS -->
+
 <table align="center">
+
 <tr>
 
-<td align="center" width="160">
-<h2>📦 ${formatNumber(repositories.length)}</h2>
+<td align="center">
+<strong>📦 ${formatNumber(
+    repositories.length
+  )}</strong>
+<br>
 <sub>Repositories</sub>
 </td>
 
-<td align="center" width="160">
-<h2>⭐ ${formatNumber(totalStars)}</h2>
+<td align="center">
+<strong>⭐ ${formatNumber(
+    totalStars
+  )}</strong>
+<br>
 <sub>Stars</sub>
 </td>
 
-<td align="center" width="160">
-<h2>🍴 ${formatNumber(totalForks)}</h2>
+<td align="center">
+<strong>🍴 ${formatNumber(
+    totalForks
+  )}</strong>
+<br>
 <sub>Forks</sub>
 </td>
 
-<td align="center" width="160">
-<h2>👥 ${formatNumber(user.followers)}</h2>
+<td align="center">
+<strong>👥 ${formatNumber(
+    user.followers
+  )}</strong>
+<br>
 <sub>Followers</sub>
 </td>
 
-<td align="center" width="160">
-<h2>👀 ${formatNumber(user.following)}</h2>
+<td align="center">
+<strong>👀 ${formatNumber(
+    user.following
+  )}</strong>
+<br>
 <sub>Following</sub>
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
 ## 🏆 Top Repositories
 
-<table width="100%">
-
-<tr>
-<th>#</th>
-<th>Repository</th>
-<th>Stars</th>
-<th>Forks</th>
-<th>Language</th>
-</tr>
-
 ${topRepositories}
-
-</table>
 
 <br>
 
-## 💻 Most Used Languages
+## 💻 Code Distribution
 
-<table width="100%">
+<p>
+Languages detected across repository source code.
+</p>
 
 ${languageStats}
 
-</table>
-
 <br>
 
-## 🚀 Recently Updated
-
-<table width="100%">
-
-<tr>
-<th>Repository</th>
-<th>Language</th>
-<th>Activity</th>
-</tr>
+## 🚀 Recent Activity
 
 ${recentRepositories}
-
-</table>
 
 <br>
 
@@ -439,22 +493,34 @@ ${recentRepositories}
 <tr>
 
 <td align="center">
-<h3>📦 ${formatNumber(repositories.length)}</h3>
+<strong>📦 ${formatNumber(
+    repositories.length
+  )}</strong>
+<br>
 <sub>Public Repositories</sub>
 </td>
 
 <td align="center">
-<h3>⭐ ${formatNumber(totalStars)}</h3>
+<strong>⭐ ${formatNumber(
+    totalStars
+  )}</strong>
+<br>
 <sub>Total Stars</sub>
 </td>
 
 <td align="center">
-<h3>🍴 ${formatNumber(totalForks)}</h3>
+<strong>🍴 ${formatNumber(
+    totalForks
+  )}</strong>
+<br>
 <sub>Total Forks</sub>
 </td>
 
 <td align="center">
-<h3>🐛 ${formatNumber(totalIssues)}</h3>
+<strong>🐛 ${formatNumber(
+    totalIssues
+  )}</strong>
+<br>
 <sub>Open Issues</sub>
 </td>
 
@@ -466,17 +532,23 @@ ${recentRepositories}
 
 <div align="center">
 
-### ⚡ Automatically Updated
+<sub>
+⚡ Automatically updated using GitHub Actions
+</sub>
 
-Last updated: **${generatedAt} IST**
+<br>
 
 <sub>
-Generated automatically using GitHub Actions 🤖
+Last updated: ${generatedAt} IST
 </sub>
 
 </div>
 
 <!--END_SECTION:github-dashboard-->`;
+
+  /* -----------------------------------------
+     UPDATE README
+  ------------------------------------------ */
 
   const readmePath = "README.md";
 
