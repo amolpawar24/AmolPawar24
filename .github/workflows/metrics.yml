@@ -17,6 +17,6 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_order: featured, activity
-          plugin_repositories_featured: BPL-Official, BPL-Admin-Dashboard, BPL-Backend-API
+          plugin_repositories_featured: AmolPawar24, JavaScript, ReactJs, Advanced-Java, NodeJS, HTML5, CSS3, Core-Java, Bike-Rental, Amol-Portfolio, Portfolio-5
           plugin_lines: yes
           plugin_lines_history_limit: 30
