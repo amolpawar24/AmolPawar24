@@ -425,15 +425,15 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>3 mins ago</sub></td>
+<td align="right"><sub>15 hrs ago</sub></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>8 hrs ago</sub></td>
+<td align="right"><sub>15 hrs ago</sub></td>
 </tr>
 
 <tr>
@@ -445,7 +445,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <tr>
 <td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
 <td align="center"><sub>—</sub></td>
-<td align="right"><sub>2 days ago</sub></td>
+<td align="right"><sub>3 days ago</sub></td>
 </tr>
 
 <tr>
@@ -468,7 +468,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-411-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-412-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-11-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -494,7 +494,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">44</td>
+<td align="right">45</td>
 </tr>
 
 <tr>
@@ -539,7 +539,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>411</strong></td>
+<td align="right"><strong>412</strong></td>
 </tr>
 
 </table>
@@ -548,7 +548,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<sub>🕐 Last updated: 5 Sept 2026, 5:54 pm IST</sub>
+<sub>🕐 Last updated: 6 Sept 2026, 8:59 am IST</sub>
 
 <br>
 
