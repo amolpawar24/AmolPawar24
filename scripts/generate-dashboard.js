@@ -4,7 +4,7 @@
  * Generates the full "GitHub Dashboard" section of README.md, including:
  *   - GitHub Statistics (repos, stars, forks, followers, open issues)
  *   - Top Repositories (by stars)
- *   - Code Distribution (language breakdown across repos)
+ *   - Code Distribution (real byte-level language breakdown across repos)
  *   - Recent Repository Activity (most recently pushed repos)
  *   - Repository Commits (default-branch commit counts, sorted desc, + total)
  *
@@ -16,6 +16,12 @@
  * Requires:
  *   GH_USERNAME - the GitHub username whose profile this dashboard belongs to
  *   GH_TOKEN    - a GitHub token with public repo read access (GITHUB_TOKEN is fine)
+ *
+ * NOTE ON FRESHNESS:
+ * GitHub's own systems (Linguist language detection, the repo list cache, etc.)
+ * can lag a few minutes behind a push. If this workflow is triggered immediately
+ * `on: push`, consider ALSO adding a `schedule:` cron trigger so a later re-run
+ * catches up on any numbers GitHub hadn't finished recomputing yet.
  */
 
 const fs = require("fs");
@@ -41,6 +47,10 @@ const headers = {
   "User-Agent": `${username}-dashboard-generator`,
 };
 
+/**
+ * Thin wrapper around fetch() that adds auth headers and throws on
+ * non-2xx responses, so every caller doesn't have to repeat this check.
+ */
 async function githubRequest(url) {
   const res = await fetch(url, { headers });
   if (!res.ok) {
@@ -49,6 +59,7 @@ async function githubRequest(url) {
   return res;
 }
 
+/** Convenience helper for endpoints where we only care about the JSON body. */
 async function githubJson(url) {
   const res = await githubRequest(url);
   return res.json();
@@ -72,9 +83,30 @@ async function fetchAllRepos() {
   return repos;
 }
 
-/** Fetch the authenticated-ish public profile info for the user. */
+/** Fetch the public profile info for the user (used for the followers count). */
 async function fetchUserProfile() {
   return githubJson(`${API_BASE}/users/${username}`);
+}
+
+/**
+ * Fetch the byte-level language breakdown for a single repo, e.g.
+ *   { "JavaScript": 48213, "CSS": 9021, "HTML": 4110 }
+ *
+ * This is GitHub's authoritative "how many bytes of each language exist in
+ * this repo" data (the same numbers GitHub uses for the language bar on the
+ * repo page). It's a much better source of truth for a dashboard than
+ * `repo.language`, which is only GitHub's single guess at each repo's ONE
+ * dominant language and doesn't move at all unless that guess flips.
+ */
+async function fetchRepoLanguages(repoName) {
+  try {
+    return await githubJson(`${API_BASE}/repos/${username}/${repoName}/languages`);
+  } catch (err) {
+    // A repo can 404/error here (e.g. just-deleted, permissions edge case).
+    // Don't let one bad repo kill the whole dashboard build.
+    console.warn(`Skipping languages for ${repoName}: ${err.message}`);
+    return {};
+  }
 }
 
 /**
@@ -102,15 +134,18 @@ async function countCommits(repoName, defaultBranch) {
   return Array.isArray(data) ? data.length : 0;
 }
 
+/** Escape pipe characters so table cell content can't break Markdown tables. */
 function escapeMd(text) {
   return (text || "").replace(/\|/g, "\\|");
 }
 
+/** Trim long repo descriptions down to a readable length for the table. */
 function truncate(text, max = 100) {
   if (!text) return "";
   return text.length > max ? `${text.slice(0, max).trim()}...` : text;
 }
 
+/** Turn an ISO date string into a short human-relative label ("3 hrs ago"). */
 function formatRelativeTime(dateString) {
   const date = new Date(dateString);
   const diffMs = Date.now() - date.getTime();
@@ -125,6 +160,7 @@ function formatRelativeTime(dateString) {
   return date.toLocaleDateString("en-US", { day: "numeric", month: "short", year: "numeric" });
 }
 
+/** Build the top-of-dashboard stat cards (repo count, stars, forks, etc). */
 function buildStatsSection({ repoCount, stars, forks, followers, openIssues }) {
   return `### ⚡ GitHub Statistics
 
@@ -173,6 +209,7 @@ function buildStatsSection({ repoCount, stars, forks, followers, openIssues }) {
 </table>`;
 }
 
+/** Build the "Top Repositories" table, ranked by stargazer count. */
 function buildTopReposSection(repos) {
   const top = [...repos].sort((a, b) => b.stargazers_count - a.stargazers_count).slice(0, 6);
 
@@ -208,16 +245,31 @@ ${rows}
 </table>`;
 }
 
-function buildCodeDistributionSection(repos) {
-  const byLanguage = {};
+/**
+ * Build the "Code Distribution" section using REAL byte counts per language,
+ * summed across every repo (via the /languages endpoint), rather than just
+ * counting how many repos list a given language as their single primary one.
+ *
+ * This is async because it has to make one extra API call per repo.
+ */
+async function buildCodeDistributionSection(repos) {
+  const totals = {};
+
+  // Fetch language byte-breakdowns for every repo and accumulate totals.
+  // Done sequentially to stay well within GitHub's rate limits; if you have
+  // a large number of repos you could batch these with Promise.all in
+  // small chunks instead.
   for (const repo of repos) {
-    if (!repo.language) continue;
-    byLanguage[repo.language] = (byLanguage[repo.language] || 0) + 1;
+    const langs = await fetchRepoLanguages(repo.name); // e.g. { JavaScript: 48213, CSS: 9021 }
+    for (const [lang, bytes] of Object.entries(langs)) {
+      totals[lang] = (totals[lang] || 0) + bytes;
+    }
   }
 
-  const total = Object.values(byLanguage).reduce((a, b) => a + b, 0) || 1;
-  const sorted = Object.entries(byLanguage)
-    .map(([language, count]) => ({ language, pct: (count / total) * 100 }))
+  const totalBytes = Object.values(totals).reduce((a, b) => a + b, 0) || 1;
+
+  const sorted = Object.entries(totals)
+    .map(([language, bytes]) => ({ language, pct: (bytes / totalBytes) * 100 }))
     .sort((a, b) => b.pct - a.pct)
     .slice(0, 6);
 
@@ -231,7 +283,12 @@ function buildCodeDistributionSection(repos) {
     .join("\n");
 
   const rows = sorted
-    .map(({ language, pct }) => `<tr>\n<td><strong>${language}</strong></td>\n<td align="right"><strong>${pct.toFixed(1)}%</strong></td>\n</tr>`)
+    .map(
+      ({ language, pct }) =>
+        `<tr>\n<td><strong>${language}</strong></td>\n<td align="right"><strong>${pct.toFixed(
+          1
+        )}%</strong></td>\n</tr>`
+    )
     .join("\n\n");
 
   return `### 💻 Code Distribution
@@ -256,6 +313,7 @@ ${rows}
 </table>`;
 }
 
+/** Build the "Recent Repository Activity" table, ranked by last push time. */
 function buildRecentActivitySection(repos) {
   const recent = [...repos]
     .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
@@ -286,6 +344,7 @@ ${rows}
 </table>`;
 }
 
+/** Build the "Repository Commits" table (per-repo commit counts + total). */
 async function buildCommitsSection(repos) {
   const results = [];
 
@@ -340,6 +399,7 @@ ${rows}
 </table>`;
 }
 
+/** Format "now" as an IST-localized timestamp for the "Last updated" footer. */
 function formatTimestamp() {
   return new Date().toLocaleString("en-IN", {
     timeZone: "Asia/Kolkata",
@@ -352,6 +412,10 @@ function formatTimestamp() {
   });
 }
 
+/**
+ * Fetch all the data needed for the dashboard and assemble the final
+ * HTML/Markdown block that gets spliced into README.md.
+ */
 async function buildDashboard() {
   const [profile, allRepos] = await Promise.all([fetchUserProfile(), fetchAllRepos()]);
 
@@ -371,9 +435,12 @@ async function buildDashboard() {
   });
 
   const topReposSection = buildTopReposSection(repos);
-  const codeDistributionSection = buildCodeDistributionSection(repos);
-  const recentActivitySection = buildRecentActivitySection(repos);
+
+  // Both of these make per-repo API calls, so they're awaited.
+  const codeDistributionSection = await buildCodeDistributionSection(repos);
   const commitsSection = await buildCommitsSection(repos);
+
+  const recentActivitySection = buildRecentActivitySection(repos);
 
   return `<div align="center">
 
@@ -408,6 +475,10 @@ ${commitsSection}
 </div>`;
 }
 
+/**
+ * Splice the freshly-built dashboard content between the START/END markers
+ * in README.md, leaving everything else in the file untouched.
+ */
 function replaceDashboardSection(readme, newContent) {
   const startIdx = readme.indexOf(START_MARKER);
   const endIdx = readme.indexOf(END_MARKER);
