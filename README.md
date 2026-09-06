@@ -374,10 +374,11 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-42.9%25-6D28D9?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SCSS-28.6%25-6D28D9?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/CSS-14.3%25-6D28D9?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/HTML-14.3%25-6D28D9?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/SCSS-29.2%25-6D28D9?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-24.9%25-6D28D9?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-17.2%25-6D28D9?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/JavaScript-15.4%25-6D28D9?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/CSS-13.3%25-6D28D9?style=flat-square" alt="CSS" />
 
 </div>
 
@@ -391,23 +392,28 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </tr>
 
 <tr>
-<td><strong>JavaScript</strong></td>
-<td align="right"><strong>42.9%</strong></td>
-</tr>
-
-<tr>
 <td><strong>SCSS</strong></td>
-<td align="right"><strong>28.6%</strong></td>
+<td align="right"><strong>29.2%</strong></td>
 </tr>
 
 <tr>
-<td><strong>CSS</strong></td>
-<td align="right"><strong>14.3%</strong></td>
+<td><strong>TypeScript</strong></td>
+<td align="right"><strong>24.9%</strong></td>
 </tr>
 
 <tr>
 <td><strong>HTML</strong></td>
-<td align="right"><strong>14.3%</strong></td>
+<td align="right"><strong>17.2%</strong></td>
+</tr>
+
+<tr>
+<td><strong>JavaScript</strong></td>
+<td align="right"><strong>15.4%</strong></td>
+</tr>
+
+<tr>
+<td><strong>CSS</strong></td>
+<td align="right"><strong>13.3%</strong></td>
 </tr>
 
 </table>
@@ -425,15 +431,15 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>3 hrs ago</sub></td>
+<td align="right"><sub>Just now</sub></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>8 hrs ago</sub></td>
+<td align="right"><sub>4 hrs ago</sub></td>
 </tr>
 
 <tr>
@@ -468,7 +474,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-430-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-432-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-11-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -499,7 +505,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">47</td>
+<td align="right">49</td>
 </tr>
 
 <tr>
@@ -539,7 +545,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>430</strong></td>
+<td align="right"><strong>432</strong></td>
 </tr>
 
 </table>
@@ -548,7 +554,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<sub>🕐 Last updated: 6 Sept 2026, 6:17 pm IST</sub>
+<sub>🕐 Last updated: 6 Sept 2026, 6:24 pm IST</sub>
 
 <br>
 
