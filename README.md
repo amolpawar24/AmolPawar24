@@ -441,39 +441,39 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>2 hrs ago</sub></td>
-</tr>
-
-<tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
 <td align="right"><sub>23 hrs ago</sub></td>
 </tr>
 
 <tr>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>1 day ago</sub></td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
 <td align="center"><sub>Java</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
+<td align="right"><sub>2 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>8 days ago</sub></td>
+<td align="right"><sub>9 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
 <td align="center"><sub>—</sub></td>
-<td align="right"><sub>9 days ago</sub></td>
+<td align="right"><sub>10 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
 <td align="center"><sub>—</sub></td>
-<td align="right"><sub>10 days ago</sub></td>
+<td align="right"><sub>11 days ago</sub></td>
 </tr>
 
 </table>
@@ -484,7 +484,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-501-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-503-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-11-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -515,7 +515,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">62</td>
+<td align="right">64</td>
 </tr>
 
 <tr>
@@ -555,7 +555,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>501</strong></td>
+<td align="right"><strong>503</strong></td>
 </tr>
 
 </table>
@@ -564,7 +564,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<sub>🕐 Last updated: 12 Sept 2026, 9:09 am IST</sub>
+<sub>🕐 Last updated: 13 Sept 2026, 9:17 am IST</sub>
 
 <br>
 
