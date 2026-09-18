@@ -338,198 +338,354 @@ focus on **AI-powered applications**.
 
 ### ⚡ GitHub Statistics
 
+<p>
 <sub>Automatically generated from GitHub data</sub>
+</p>
 
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center"><strong>📦 12</strong><br/><sub>Repositories</sub></td>
-    <td align="center"><strong>⭐ 0</strong><br/><sub>Stars</sub></td>
-    <td align="center"><strong>🍴 0</strong><br/><sub>Forks</sub></td>
-    <td align="center"><strong>👥 0</strong><br/><sub>Followers</sub></td>
-    <td align="center"><strong>🐛 0</strong><br/><sub>Open Issues</sub></td>
-  </tr>
+<table align="center">
+
+<tr>
+
+<td align="center">
+<strong>📦 15</strong>
+<br>
+<sub>Repositories</sub>
+</td>
+
+<td align="center">
+<strong>⭐ 0</strong>
+<br>
+<sub>Stars</sub>
+</td>
+
+<td align="center">
+<strong>🍴 0</strong>
+<br>
+<sub>Forks</sub>
+</td>
+
+<td align="center">
+<strong>👥 0</strong>
+<br>
+<sub>Followers</sub>
+</td>
+
+<td align="center">
+<strong>🐛 0</strong>
+<br>
+<sub>Open Issues</sub>
+</td>
+
+</tr>
+
 </table>
 
-<br/>
+<br>
 
 ### 🏆 Top Repositories
 
 <table width="100%">
-  <tr>
-    <th align="center">#</th>
-    <th align="left">Repository</th>
-    <th align="center">Language</th>
-    <th align="center">⭐</th>
-    <th align="center">🍴</th>
-  </tr>
-  <tr>
-    <td align="center"><strong>1</strong></td>
-    <td>
-      <a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a><br/>
-      <sub>A comprehensive Advanced Java learning repository covering Multithreading, Concurrency, File Handling...</sub>
-    </td>
-    <td align="center"><sub>—</sub></td>
-    <td align="center">0</td>
-    <td align="center">0</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>2</strong></td>
-    <td>
-      <a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a><br/>
-      <sub>Personal portfolio website highlighting my work, technical skills, and projects — built to demonstrate...</sub>
-    </td>
-    <td align="center"><sub>SCSS</sub></td>
-    <td align="center">0</td>
-    <td align="center">0</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>3</strong></td>
-    <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-    <td align="center"><sub>JavaScript</sub></td>
-    <td align="center">0</td>
-    <td align="center">0</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>4</strong></td>
-    <td>
-      <a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a><br/>
-      <sub>🏍️ Modern & Responsive Bike Rental Website | Explore Bikes, Scooters, Rental Categories, Brands, Gallery...</sub>
-    </td>
-    <td align="center"><sub>CSS</sub></td>
-    <td align="center">0</td>
-    <td align="center">0</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>5</strong></td>
-    <td>
-      <a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a><br/>
-      <sub>☕ Core Java concepts, practical programs, OOP, Collections, Exception Handling, Strings, Arrays & more...</sub>
-    </td>
-    <td align="center"><sub>Java</sub></td>
-    <td align="center">0</td>
-    <td align="center">0</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>6</strong></td>
-    <td>
-      <a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a><br/>
-      <sub>🎨 Master CSS3 from fundamentals to advanced concepts with selectors, box model, Flexbox, Grid, responsive...</sub>
-    </td>
-    <td align="center"><sub>—</sub></td>
-    <td align="center">0</td>
-    <td align="center">0</td>
-  </tr>
+
+<tr>
+<th align="center">#</th>
+<th>Repository</th>
+<th align="center">Language</th>
+<th align="center">⭐</th>
+<th align="center">🍴</th>
+</tr>
+
+<tr>
+<td align="center"><strong>1</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a>
+<br>
+<sub>A comprehensive Advanced Java learning repository covering Multithreading, Concurrency, File Handlin...</sub>
+</td>
+<td align="center"><sub>—</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>2</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a>
+<br>
+<sub>Personal portfolio website highlighting my work, technical skills, and projects — built to demonstra...</sub>
+</td>
+<td align="center"><sub>SCSS</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>3</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a>
+</td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>4</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a>
+<br>
+<sub>🏍️ Modern & Responsive Bike Rental Website \| Explore Bikes, Scooters, Rental Categories, Brands, Ga...</sub>
+</td>
+<td align="center"><sub>CSS</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>5</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a>
+<br>
+<sub>☕ Core Java concepts, practical programs, OOP, Collections, Exception Handling, Strings, Arrays & mo...</sub>
+</td>
+<td align="center"><sub>Java</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>6</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a>
+<br>
+<sub>🎨 Master CSS3 from fundamentals to advanced concepts with selectors, box model, Flexbox, Grid, resp...</sub>
+</td>
+<td align="center"><sub>—</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
 </table>
 
-<br/>
+<br>
 
 ### 💻 Code Distribution
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SCSS-25.6%25-DC2626?style=flat-square" alt="SCSS" />
-  <img src="https://img.shields.io/badge/TypeScript-21.8%25-DC2626?style=flat-square" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML-19.3%25-DC2626?style=flat-square" alt="HTML" />
-  <img src="https://img.shields.io/badge/JavaScript-16.7%25-DC2626?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS-14.6%25-DC2626?style=flat-square" alt="CSS" />
-  <img src="https://img.shields.io/badge/Java-2.0%25-DC2626?style=flat-square" alt="Java" />
+
+<img src="https://img.shields.io/badge/SCSS-23.3%25-6D28D9?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-19.9%25-6D28D9?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-19.9%25-6D28D9?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-18.9%25-6D28D9?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-16.1%25-6D28D9?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-1.8%25-6D28D9?style=flat-square" alt="Java" />
+
 </div>
 
-<br/>
+<br>
 
 <table width="100%">
-  <tr>
-    <th align="left">Language</th>
-    <th align="right">Usage</th>
-  </tr>
-  <tr><td><strong>SCSS</strong></td><td align="right"><strong>25.6%</strong></td></tr>
-  <tr><td><strong>TypeScript</strong></td><td align="right"><strong>21.8%</strong></td></tr>
-  <tr><td><strong>HTML</strong></td><td align="right"><strong>19.3%</strong></td></tr>
-  <tr><td><strong>JavaScript</strong></td><td align="right"><strong>16.7%</strong></td></tr>
-  <tr><td><strong>CSS</strong></td><td align="right"><strong>14.6%</strong></td></tr>
-  <tr><td><strong>Java</strong></td><td align="right"><strong>2.0%</strong></td></tr>
+
+<tr>
+<th>Language</th>
+<th align="right">Usage</th>
+</tr>
+
+<tr>
+<td><strong>SCSS</strong></td>
+<td align="right"><strong>23.3%</strong></td>
+</tr>
+
+<tr>
+<td><strong>TypeScript</strong></td>
+<td align="right"><strong>19.9%</strong></td>
+</tr>
+
+<tr>
+<td><strong>HTML</strong></td>
+<td align="right"><strong>19.9%</strong></td>
+</tr>
+
+<tr>
+<td><strong>CSS</strong></td>
+<td align="right"><strong>18.9%</strong></td>
+</tr>
+
+<tr>
+<td><strong>JavaScript</strong></td>
+<td align="right"><strong>16.1%</strong></td>
+</tr>
+
+<tr>
+<td><strong>Java</strong></td>
+<td align="right"><strong>1.8%</strong></td>
+</tr>
+
 </table>
 
-<br/>
+<br>
 
 ### 🚀 Recent Repository Activity
 
 <table width="100%">
-  <tr>
-    <th align="left">Repository</th>
-    <th align="center">Language</th>
-    <th align="right">Updated</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td>
-    <td align="center"><sub>CSS</sub></td>
-    <td align="right"><sub>22 hrs ago</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-    <td align="center"><sub>JavaScript</sub></td>
-    <td align="right"><sub>23 hrs ago</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
-    <td align="center"><sub>JavaScript</sub></td>
-    <td align="right"><sub>23 hrs ago</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
-    <td align="center"><sub>Java</sub></td>
-    <td align="right"><sub>2 days ago</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
-    <td align="center"><sub>JavaScript</sub></td>
-    <td align="right"><sub>3 days ago</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
-    <td align="center"><sub>—</sub></td>
-    <td align="right"><sub>15 days ago</sub></td>
-  </tr>
+
+<tr>
+<th>Repository</th>
+<th align="center">Language</th>
+<th align="right">Updated</th>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>43 mins ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
+<td align="center"><sub>—</sub></td>
+<td align="right"><sub>8 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Gymso-Fitness-Website"><strong>Gymso-Fitness-Website</strong></a></td>
+<td align="center"><sub>CSS</sub></td>
+<td align="right"><sub>8 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/PrepInsta-Top-100-Codes"><strong>PrepInsta-Top-100-Codes</strong></a></td>
+<td align="center"><sub>—</sub></td>
+<td align="right"><sub>8 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>8 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td>
+<td align="center"><sub>CSS</sub></td>
+<td align="right"><sub>1 day ago</sub></td>
+</tr>
+
 </table>
 
-<br/>
+<br>
 
 ### 📊 Repository Commits
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-567-DC2626?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repositories-12-DC2626?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Total%20Commits-614-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-15-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+
 </div>
 
-<br/>
+<br>
 
 <table width="100%">
-  <tr>
-    <th align="left">📦 Repository</th>
-    <th align="right">💻 Commits</th>
-  </tr>
-  <tr><td><a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a></td><td align="right">124</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td><td align="right">114</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td><td align="right">103</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td><td align="right">74</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td><td align="right">58</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td><td align="right">39</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a></td><td align="right">23</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td><td align="right">17</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td><td align="right">6</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td><td align="right">3</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td><td align="right">3</td></tr>
-  <tr><td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td><td align="right">3</td></tr>
-  <tr><td><strong>Total</strong></td><td align="right"><strong>567</strong></td></tr>
+
+<tr>
+<th>📦 Repository</th>
+<th align="right">💻 Commits</th>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Amol-Portfolio"><strong>Amol-Portfolio</strong></a></td>
+<td align="right">124</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td>
+<td align="right">114</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
+<td align="right">103</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td align="right">91</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
+<td align="right">70</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
+<td align="right">39</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a></td>
+<td align="right">23</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
+<td align="right">17</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Gymso-Fitness-Website"><strong>Gymso-Fitness-Website</strong></a></td>
+<td align="right">14</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td>
+<td align="right">6</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/PrepInsta-Top-100-Codes"><strong>PrepInsta-Top-100-Codes</strong></a></td>
+<td align="right">2</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
+<td align="right">2</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td align="right"><strong>614</strong></td>
+</tr>
+
 </table>
 
-<br/>
+<br>
 
 <div align="center">
-  <sub>🕐 Last updated: 18 Sept 2026, 9:14 am IST</sub>
-  <br/>
-  <sub>🤖 Powered by GitHub Actions</sub>
+
+<sub>🕐 Last updated: 18 Sept 2026, 6:53 pm IST</sub>
+
+<br>
+
+<sub>🤖 Powered by GitHub Actions</sub>
+
 </div>
 
 <!--END_SECTION:github-dashboard-->
