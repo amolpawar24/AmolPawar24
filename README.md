@@ -689,50 +689,6 @@ I specialize in building clean, scalable web applications using the **MERN stack
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     SOCIAL MEDIA                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🌐 Connect With Me
-
-<a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="facebook logo" />
-</a>
-
-<a href="https://www.instagram.com/amolpawar.24/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-</a>
-
-<a href="https://www.linkedin.com/in/amolpawar24/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-
-<a href="https://x.com/AmolPawar2404" target="_blank">
-<img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="x logo" />
-</a>
-
-<a href="https://dev.to/amolpawar24" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Dev.to&logo=devdotto&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" alt="dev.to logo" />
-</a>
-
-<a href="https://medium.com/@amolpawar.me" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="medium logo" />
-</a>
-
-<a href="mailto:amolpawar.me@gmail.com">
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-
-<a href="https://amolpawar.netlify.app/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="portfolio logo" />
-</a>
-
-</div>
-
-<br clear="both">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     FOOTER ANIMATIONS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
