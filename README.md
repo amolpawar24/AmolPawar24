@@ -114,134 +114,157 @@ I specialize in building clean, scalable web applications using the **MERN stack
 <div align="center">
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH SKILLS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<h2 align="center">🔴 Tech Stack &amp; Skills</h2>
 
-## 🛠️ Tech Skills
+<p align="center"><b>Core Languages</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 380px;" alt="Languages" />
+  </a>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5 logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" alt="css3 logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="javascript logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="65" alt="bootstrap logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="65" alt="jquery logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="65" alt="tailwindcss logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="65" alt="react logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="65" alt="materialui logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="65" alt="scss logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="65" alt="redux logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="65" alt="nextjs logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="65" alt="nodejs logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="65" alt="expressjs logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="65" alt="mongodb logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="65" alt="mysql logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" alt="java logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="65" alt="postman logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="65" alt="vscode logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="65" alt="android studio logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="65" alt="eclipse logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="65" alt="apache tomcat logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="65" alt="cloudflare logo" />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" alt="github logo" />
+<p align="center"><b>Frontend Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,jquery,sass,tailwind,materialui,nextjs&theme=dark" width="100%" style="max-width: 480px;" alt="Frontend" />
+  </a>
+</p>
 
-</div>
+<p align="center"><b>Java Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" width="100%" style="max-width: 120px;" alt="Java, Spring" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Core_Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=EF4444" alt="Core Java" />
+  <img src="https://img.shields.io/badge/Advanced_Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=EF4444" alt="Advanced Java" />
+  <img src="https://img.shields.io/badge/JDBC-0a0a0a?style=for-the-badge&logo=oracle&logoColor=EF4444" alt="JDBC" />
+  <img src="https://img.shields.io/badge/Hibernate-0a0a0a?style=for-the-badge&logo=hibernate&logoColor=EF4444" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/JSP-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=EF4444" alt="JSP" />
+</p>
+
+<p align="center"><b>MERN Stack</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" width="100%" style="max-width: 120px;" alt="MERN Backend" />
+  </a>
+</p>
+
+<p align="center"><b>Database</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" width="100%" style="max-width: 120px;" alt="MySQL, MongoDB" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=EF4444" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-0a0a0a?style=for-the-badge&logo=microsoftsqlserver&logoColor=EF4444" alt="SQL Server" />
+</p>
+
+<p align="center"><b>Tools &amp; AI</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,vscode,git,github&theme=dark" width="100%" style="max-width: 240px;" alt="Tools" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor_AI-0a0a0a?style=for-the-badge&logo=cursor&logoColor=EF4444" alt="Cursor AI" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-0a0a0a?style=for-the-badge&logo=sparkles&logoColor=EF4444" alt="Vibe Coding" />
+</p>
 
 <br clear="both">
 
 <div align="center">
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<h2 align="center">🔴 Featured Projects</h2>
 
-### 🚀 Featured Projects
-
-</div>
-
-<table align="center" width="100%">
+<table width="100%" border="0" align="center">
 
 <tr>
-
-<td align="center" width="50%" valign="top">
-
-#### 🌐 BPL Official
-
-Modern, responsive platform built on React/Next.js with a Node.js backend.
-
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-
+<td align="center" width="50%" style="padding: 22px;">
+  <h3>🌐 BPL Official</h3>
+  <p><i>A modern, responsive platform built on React/Next.js with a Node.js backend.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/-React-DC2626?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Node.js-111111?style=flat-square&logo=node.js&logoColor=EF4444" />
+    <img src="https://img.shields.io/badge/-MongoDB-DC2626?style=flat-square&logo=mongodb&logoColor=white" />
+  </p>
+  <p>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/amolpawar24" target="_blank">
+      <img src="https://img.shields.io/badge/Source-💻%20Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
 </td>
 
-<td align="center" width="50%" valign="top">
-
-#### 🛠️ BPL Admin Dashboard
-
-Feature-rich dashboard with real-time data management and a clean UI.
-
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-
+<td align="center" width="50%" style="padding: 22px;">
+  <h3>🛠️ BPL Admin Dashboard</h3>
+  <p><i>Feature-rich dashboard with real-time data management and a clean UI.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/-React-DC2626?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redux-111111?style=flat-square&logo=redux&logoColor=EF4444" />
+    <img src="https://img.shields.io/badge/-MUI-DC2626?style=flat-square&logo=mui&logoColor=white" />
+  </p>
+  <p>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/amolpawar24" target="_blank">
+      <img src="https://img.shields.io/badge/Source-💻%20Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center" width="50%" valign="top">
-
-#### ⚙️ BPL Backend API
-
-RESTful API built with Express & MongoDB powering the entire BPL ecosystem.
-
-<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-
+<td align="center" width="50%" style="padding: 22px;">
+  <h3>⚙️ BPL Backend API</h3>
+  <p><i>RESTful API built with Express &amp; MongoDB powering the entire BPL ecosystem.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/-Express-111111?style=flat-square&logo=express&logoColor=EF4444" />
+    <img src="https://img.shields.io/badge/-MongoDB-DC2626?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REST%20API-DC2626?style=flat-square&logo=postman&logoColor=white" />
+  </p>
+  <p>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/amolpawar24" target="_blank">
+      <img src="https://img.shields.io/badge/Source-💻%20Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
 </td>
 
-<td align="center" width="50%" valign="top">
-
-#### 💼 Portfolio Website
-
-Personal portfolio showcasing projects, skills & experience — fully responsive.
-
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-
+<td align="center" width="50%" style="padding: 22px;">
+  <h3>💼 Portfolio Website</h3>
+  <p><i>Personal portfolio showcasing projects, skills &amp; experience — fully responsive.</i></p>
+  <p>
+    <img src="https://img.shields.io/badge/-Next.js-111111?style=flat-square&logo=next.js&logoColor=EF4444" />
+    <img src="https://img.shields.io/badge/-Tailwind-DC2626?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vercel-111111?style=flat-square&logo=vercel&logoColor=EF4444" />
+  </p>
+  <p>
+    <a href="https://amolpawar.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/amolpawar24" target="_blank">
+      <img src="https://img.shields.io/badge/Source-💻%20Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
 </td>
-
 </tr>
 
 </table>
