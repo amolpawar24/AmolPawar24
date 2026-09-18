@@ -3,6 +3,14 @@
 <!--  Theme  : Dark background (#0a0a0a / #111111) + Red accent      -->
 <!--           (#DC2626 / #EF4444 / #F87171) used consistently       -->
 <!--           across every section, including the footer.          -->
+<!--                                                                 -->
+<!--  CHANGELOG (this revision):                                     -->
+<!--  1. Removed github-readme-activity-graph.vercel.app — the host  -->
+<!--     returns HTTP 402 DEPLOYMENT_DISABLED and renders as a       -->
+<!--     broken image. Replaced with github-profile-summary-cards.   -->
+<!--  2. Footer + header SVGs now use absolute raw.githubusercontent -->
+<!--     URLs with a ?v= cache-buster instead of relative paths.     -->
+<!--     Bump the ?v= number whenever you edit those SVG files.      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────────────────────────────────────────────────────────── -->
@@ -11,7 +19,7 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Amol Pawar — Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/header.svg?v=2" width="100%" alt="Amol Pawar — Full Stack Developer"/>
 
 <br/>
 
@@ -266,11 +274,6 @@ focus on **AI-powered applications**.
 
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!--  GITHUB ANALYTICS & ACTIVITY                                    -->
-<!--  FIX 1: avatar/profile image added so the section is anchored   -->
-<!--         by a face instead of floating stat cards.               -->
-<!--  FIX 2: stat card + top-langs card + avatar are placed in a     -->
-<!--         single 3-column table so everything lines up on one    -->
-<!--         baseline instead of wrapping unevenly.                 -->
 <!-- ─────────────────────────────────────────────────────────────── -->
 
 <h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
@@ -547,28 +550,48 @@ focus on **AI-powered applications**.
 
 <br clear="both">
 
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!--  PROFILE SUMMARY                                                -->
-<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  CONTRIBUTION ACTIVITY                                          -->
+<!--                                                                 -->
+<!--  REPLACED: github-readme-activity-graph.vercel.app returns      -->
+<!--  HTTP 402 DEPLOYMENT_DISABLED and renders as a broken image.    -->
+<!--  These profile-summary-cards endpoints are live.                -->
+<!--                                                                 -->
+<!--  Want the original red/black line graph back? Fork              -->
+<!--  Ashutosh00710/github-readme-activity-graph, deploy it to your  -->
+<!--  own Vercel account, and swap the host in the commented-out     -->
+<!--  line below back in.                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 📈 Profile Summary
+### 📅 Contribution Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amolpawar24&theme=github_dark" height="150" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amolpawar24&theme=github_dark" width="100%" alt="Profile details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amolpawar24&theme=github_dark" height="180" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amolpawar24&theme=github_dark" height="180" alt="Most commit language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amolpawar24&theme=github_dark" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amolpawar24&theme=github_dark&utcOffset=5.5" height="180" alt="Productive time" />
 
 </div>
 
-<br clear="both">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CODING ACTIVITY                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- SELF-HOSTED ACTIVITY GRAPH — uncomment after deploying your own Vercel instance:
+<div align="center">
+  <img src="https://YOUR-PROJECT.vercel.app/graph?username=amolpawar24&hide_border=true&bg_color=0a0a0a&color=EF4444&line=DC2626&point=F87171&area=true&area_color=DC2626&title_color=ef4444&text_color=f3f4f6"
+       alt="GitHub Activity Graph" width="100%" />
+</div>
+-->
 
 <br clear="both">
 
 <div align="center">
-<img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -590,37 +613,55 @@ focus on **AI-powered applications**.
 
 <br clear="both">
 
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!--  ACTIVITY GRAPH                                                 -->
-<!--  FIX: the previous "react-dark" theme rendered mismatched teal/ -->
-<!--  purple colors (and occasionally failed to load). Colors below  -->
-<!--  are set manually to the site's red/black palette so it always  -->
-<!--  matches, and the hex values render reliably regardless of      -->
-<!--  whether the named theme is available.                         -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### 📅 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amolpawar24&hide_border=true&bg_color=0a0a0a&color=EF4444&line=DC2626&point=F87171&area=true&area_color=DC2626&title_color=ef4444&text_color=f3f4f6"
-     alt="GitHub Activity Graph" width="100%" />
-
-</div>
-
-<br clear="both">
-
 <div align="center">
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!--  FOOTER                                                         -->
-<!--  FIX: footer previously used cyan/purple (0:06B6D4,100:6D28D9)  -->
-<!--  and unrelated left/right GIFs that clashed with the red/black  -->
-<!--  theme used everywhere else. Both are replaced below with the   -->
-<!--  same red gradient used in the header/quote banner, so the      -->
-<!--  page now opens and closes on the same visual identity.         -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://amolpawar.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=chrome" width="60" height="60" alt="Portfolio" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+  </a>
+  <br />
+  <sub><b>Projects &amp; Case Studies</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://github.com/amolpawar24" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/GitHub-Follow-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+  <br />
+  <sub><b>Code &amp; Open Source</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:amolpawar.me@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
+</td>
+</tr>
+</table>
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  Absolute raw URL + cache-buster. If this still shows a broken  -->
+<!--  image, open the URL below in a browser: a 404 means the file   -->
+<!--  was never committed, or the path/branch/casing is wrong.       -->
+<!--  Bump ?v=2 to ?v=3 after any edit to footer.svg.                -->
 <!-- ─────────────────────────────────────────────────────────────── -->
 
 <div align="center">
