@@ -4,17 +4,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=220&section=header&text=Hi%20there,%20I'm%20Amol%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20clean,%20scalable%20web%20apps&descAlignY=58&descSize=16" width="100%"/>
-
-# 👋 Amol Pawar
-
-### MERN Stack Developer &nbsp;|&nbsp; React &nbsp;•&nbsp; Node.js &nbsp;•&nbsp; MongoDB
+<img src="./assets/header.svg" width="100%" alt="Amol Pawar — Full Stack Developer"/>
 
 <br/>
 
+### 🚀 &nbsp;What I Do
+
 <a href="https://github.com/amolpawar24">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Turning+Ideas+Into+Real+Products;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2A45&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+Java+Full+Stack;1+Year+Experience+in+React.js;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+
 
 </div>
 
