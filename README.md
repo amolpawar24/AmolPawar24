@@ -15,20 +15,57 @@
 </a>
 
 
-
 </div>
 
 <br clear="both">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     QUICK INFO BADGES                          -->
+<!--                     SOCIAL / QUICK LINKS                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-06B6D4?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" />
+<a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Follow-DC2626?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a0a" alt="Facebook" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/amolpawar.24/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://x.com/AmolPawar2404" target="_blank">
+<img src="https://img.shields.io/badge/X-Follow-DC2626?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a" alt="X" />
+</a>
+&nbsp;
+<a href="mailto:amolpawar.me@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+</a>
+&nbsp;
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+</a>
+&nbsp;
+<a href="https://amolpawar.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/amolpawar24" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+</a>
+&nbsp;
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://dev.to/amolpawar24" target="_blank">
+<img src="https://img.shields.io/badge/Dev.to-Read-DC2626?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0a0a0a" alt="Dev.to" />
+</a>
+&nbsp;
+<a href="https://medium.com/@amolpawar.me" target="_blank">
+<img src="https://img.shields.io/badge/Medium-Read-DC2626?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a0a" alt="Medium" />
+</a>
 
 </div>
 
