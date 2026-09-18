@@ -114,9 +114,13 @@ I specialize in building clean, scalable web applications using the **MERN stack
 <div align="center">
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH SKILLS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🔴 Tech Stack &amp; Skills</h2>
 
+<!-- Core Languages -->
 <p align="center"><b>Core Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -124,54 +128,36 @@ I specialize in building clean, scalable web applications using the **MERN stack
   </a>
 </p>
 
+<!-- Frontend Development -->
 <p align="center"><b>Frontend Development</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,jquery,sass,tailwind,materialui,nextjs&theme=dark" width="100%" style="max-width: 480px;" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,sass,materialui,react,redux,nextjs&theme=dark" width="100%" style="max-width: 506px;" alt="Frontend" />
   </a>
 </p>
 
-<p align="center"><b>Java Development</b></p>
+<!-- Backend Development -->
+<p align="center"><b>Backend Development</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" width="100%" style="max-width: 120px;" alt="Java, Spring" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Core_Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=EF4444" alt="Core Java" />
-  <img src="https://img.shields.io/badge/Advanced_Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=EF4444" alt="Advanced Java" />
-  <img src="https://img.shields.io/badge/JDBC-0a0a0a?style=for-the-badge&logo=oracle&logoColor=EF4444" alt="JDBC" />
-  <img src="https://img.shields.io/badge/Hibernate-0a0a0a?style=for-the-badge&logo=hibernate&logoColor=EF4444" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/JSP-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=EF4444" alt="JSP" />
-</p>
-
-<p align="center"><b>MERN Stack</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" width="100%" style="max-width: 120px;" alt="MERN Backend" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,oracle,nodejs,express&theme=dark" width="100%" style="max-width: 380px;" alt="Backend Development" />
   </a>
 </p>
 
+<!-- Database -->
 <p align="center"><b>Database</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" width="100%" style="max-width: 120px;" alt="MySQL, MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" width="100%" style="max-width: 190px;" alt="Database" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=EF4444" alt="SQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-0a0a0a?style=for-the-badge&logo=microsoftsqlserver&logoColor=EF4444" alt="SQL Server" />
-</p>
 
+<!-- Tools & AI -->
 <p align="center"><b>Tools &amp; AI</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,vscode,git,github&theme=dark" width="100%" style="max-width: 240px;" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=postman,vscode,git,github&theme=dark" width="100%" style="max-width: 253px;" alt="Tools" />
   </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor_AI-0a0a0a?style=for-the-badge&logo=cursor&logoColor=EF4444" alt="Cursor AI" />
-  <img src="https://img.shields.io/badge/Vibe_Coding-0a0a0a?style=for-the-badge&logo=sparkles&logoColor=EF4444" alt="Vibe Coding" />
 </p>
 
 <br clear="both">
