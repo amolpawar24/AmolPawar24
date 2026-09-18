@@ -79,28 +79,41 @@
 <!--                         ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<h2 align="center">🔴 About Me</h2>
 
-## 👨‍💻 About Me
-
-</div>
-
-<img align="left" height="355" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" />
-
-- 🚀 MERN Stack Developer focused on building clean, scalable web applications
-- 🌱 Currently deepening my skills across React, Node.js, and MongoDB
-- 📍 Based in Maharashtra, India
-- 💼 Open to full-stack development opportunities
-- ⚡ Fun fact: Code. Break. Fix. Repeat.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+</p>
 
 <img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+
+Hey! I'm **Amol Pawar**, a passionate **Full Stack Developer** based in Maharashtra, India.
+I specialize in building clean, scalable web applications using the **MERN stack**, with hands-on experience in **React.js**, a working knowledge of **Java Full Stack** development, and a growing focus on **AI-powered applications**.
+
+- 🚀 &nbsp;**Full Stack Developer** — MERN Stack (React, Node.js, MongoDB) &amp; Java Full Stack
+- 🤖 &nbsp;**Exploring AI** — integrating AI tools and models into full-stack projects
+- 💼 &nbsp;**1 year of experience** as a React.js Developer
+- 🌱 &nbsp;Currently deepening my skills across React, Node.js, and system design
+- 📍 &nbsp;Based in Maharashtra, India
+- 🟢 &nbsp;Open to full-stack development opportunities
+- ⚡ &nbsp;Fun fact: Code. Break. Fix. Repeat.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Work-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-DC2626?style=flat-square" alt="Role" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Full_Stack_Development-111111?style=flat-square" alt="Focus" />
+</p>
+
+💬 &nbsp;**Let's Discuss:** JavaScript, React.js, Node.js, MongoDB, Java, AI Integration, Full Stack Architecture &amp; Git Workflows.
+⚡ &nbsp;**Philosophy:** *"Turning random ideas into production-ready code."*
 
 <br clear="both">
 
 <div align="center">
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       TECH SKILLS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
