@@ -253,7 +253,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <tr>
 
 <td align="center">
-<strong>📦 11</strong>
+<strong>📦 12</strong>
 <br>
 <sub>Repositories</sub>
 </td>
@@ -378,12 +378,12 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SCSS-26.7%25-6D28D9?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/TypeScript-22.8%25-6D28D9?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SCSS-25.6%25-6D28D9?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-21.8%25-6D28D9?style=flat-square" alt="TypeScript" />
 <img src="https://img.shields.io/badge/HTML-19.3%25-6D28D9?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/JavaScript-16.2%25-6D28D9?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/CSS-13.0%25-6D28D9?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/Java-2.1%25-6D28D9?style=flat-square" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-16.7%25-6D28D9?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/CSS-14.6%25-6D28D9?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/Java-2.0%25-6D28D9?style=flat-square" alt="Java" />
 
 </div>
 
@@ -398,12 +398,12 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><strong>SCSS</strong></td>
-<td align="right"><strong>26.7%</strong></td>
+<td align="right"><strong>25.6%</strong></td>
 </tr>
 
 <tr>
 <td><strong>TypeScript</strong></td>
-<td align="right"><strong>22.8%</strong></td>
+<td align="right"><strong>21.8%</strong></td>
 </tr>
 
 <tr>
@@ -413,17 +413,17 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><strong>JavaScript</strong></td>
-<td align="right"><strong>16.2%</strong></td>
+<td align="right"><strong>16.7%</strong></td>
 </tr>
 
 <tr>
 <td><strong>CSS</strong></td>
-<td align="right"><strong>13.0%</strong></td>
+<td align="right"><strong>14.6%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Java</strong></td>
-<td align="right"><strong>2.1%</strong></td>
+<td align="right"><strong>2.0%</strong></td>
 </tr>
 
 </table>
@@ -441,9 +441,9 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>15 hrs ago</sub></td>
+<td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td>
+<td align="center"><sub>CSS</sub></td>
+<td align="right"><sub>22 hrs ago</sub></td>
 </tr>
 
 <tr>
@@ -453,25 +453,25 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 </tr>
 
 <tr>
+<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>23 hrs ago</sub></td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
 <td align="center"><sub>Java</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
+<td align="right"><sub>2 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>2 days ago</sub></td>
+<td align="right"><sub>3 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
-<td align="center"><sub>—</sub></td>
-<td align="right"><sub>14 days ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
 <td align="center"><sub>—</sub></td>
 <td align="right"><sub>15 days ago</sub></td>
 </tr>
@@ -484,8 +484,8 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-549-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Repositories-11-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-567-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-12-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -515,12 +515,12 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">72</td>
+<td align="right">74</td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
-<td align="right">48</td>
+<td align="right">58</td>
 </tr>
 
 <tr>
@@ -536,6 +536,11 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 <tr>
 <td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
 <td align="right">17</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td>
+<td align="right">6</td>
 </tr>
 
 <tr>
@@ -555,7 +560,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>549</strong></td>
+<td align="right"><strong>567</strong></td>
 </tr>
 
 </table>
@@ -564,7 +569,7 @@ Personal portfolio showcasing projects, skills & experience — fully responsive
 
 <div align="center">
 
-<sub>🕐 Last updated: 17 Sept 2026, 9:27 am IST</sub>
+<sub>🕐 Last updated: 18 Sept 2026, 9:14 am IST</sub>
 
 <br>
 
