@@ -76,6 +76,18 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       VISITOR COUNTER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amolpawar24&label=Profile%20Views&color=DC2626&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<br clear="both">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -260,10 +272,17 @@ I specialize in building clean, scalable web applications using the **MERN stack
 <div align="center">
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ANALYTICS & ACTIVITY                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STREAK                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=amolpawar24&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amolpawar24&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+</p>
 
 <div align="center">
 
@@ -437,12 +456,12 @@ I specialize in building clean, scalable web applications using the **MERN stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SCSS-25.6%25-6D28D9?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/TypeScript-21.8%25-6D28D9?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML-19.3%25-6D28D9?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/JavaScript-16.7%25-6D28D9?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/CSS-14.6%25-6D28D9?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/Java-2.0%25-6D28D9?style=flat-square" alt="Java" />
+<img src="https://img.shields.io/badge/SCSS-25.6%25-DC2626?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-21.8%25-DC2626?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-19.3%25-DC2626?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/JavaScript-16.7%25-DC2626?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/CSS-14.6%25-DC2626?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/Java-2.0%25-DC2626?style=flat-square" alt="Java" />
 
 </div>
 
@@ -543,8 +562,8 @@ I specialize in building clean, scalable web applications using the **MERN stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-567-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Repositories-12-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-567-DC2626?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-12-DC2626?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -644,13 +663,14 @@ I specialize in building clean, scalable web applications using the **MERN stack
 <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                       FUN QUOTE                                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6D28D9,100:06B6D4&height=120&section=header&text=Code.%20Break.%20Fix.%20Repeat.&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:DC2626,100:7F1D1D&height=120&section=header&text=Code.%20Break.%20Fix.%20Repeat.&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
 
 </div>
 
@@ -673,14 +693,6 @@ I specialize in building clean, scalable web applications using the **MERN stack
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     CODING ACTIVITY                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### ⌨️ Coding Activity
-
-<img height="500" src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" />
-
-</div>
 
 <br clear="both">
 
