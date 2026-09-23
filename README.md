@@ -349,7 +349,7 @@ focus on **AI-powered applications**.
 <tr>
 
 <td align="center">
-<strong>📦 14</strong>
+<strong>📦 15</strong>
 <br>
 <sub>Repositories</sub>
 </td>
@@ -433,6 +433,18 @@ focus on **AI-powered applications**.
 <tr>
 <td align="center"><strong>4</strong></td>
 <td>
+<a href="https://github.com/amolpawar24/Bootstrap"><strong>Bootstrap</strong></a>
+<br>
+<sub>Complete Bootstrap 5 learning repository covering fundamentals, responsive layouts, components, util...</sub>
+</td>
+<td align="center"><sub>HTML</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>5</strong></td>
+<td>
 <a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a>
 <br>
 <sub>☕ Core Java concepts, practical programs, OOP, Collections, Exception Handling, Strings, Arrays & mo...</sub>
@@ -443,25 +455,13 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
-<td align="center"><strong>5</strong></td>
+<td align="center"><strong>6</strong></td>
 <td>
 <a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a>
 <br>
 <sub>🎨 Master CSS3 from fundamentals to advanced concepts with selectors, box model, Flexbox, Grid, resp...</sub>
 </td>
 <td align="center"><sub>—</sub></td>
-<td align="center">0</td>
-<td align="center">0</td>
-</tr>
-
-<tr>
-<td align="center"><strong>6</strong></td>
-<td>
-<a href="https://github.com/amolpawar24/Gymso-Fitness-Website"><strong>Gymso-Fitness-Website</strong></a>
-<br>
-<sub>A responsive fitness and gym website built to practice modern web development and frontend design.</sub>
-</td>
-<td align="center"><sub>CSS</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
 </tr>
@@ -474,12 +474,12 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-25.2%25-6D28D9?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-23.4%25-6D28D9?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-20.3%25-6D28D9?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SCSS-14.8%25-6D28D9?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/TypeScript-14.0%25-6D28D9?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-2.3%25-6D28D9?style=flat-square" alt="Java" />
+<img src="https://img.shields.io/badge/HTML-28.8%25-6D28D9?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-22.3%25-6D28D9?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-19.4%25-6D28D9?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SCSS-14.1%25-6D28D9?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-13.3%25-6D28D9?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Java-2.2%25-6D28D9?style=flat-square" alt="Java" />
 
 </div>
 
@@ -494,32 +494,32 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>HTML</strong></td>
-<td align="right"><strong>25.2%</strong></td>
+<td align="right"><strong>28.8%</strong></td>
 </tr>
 
 <tr>
 <td><strong>CSS</strong></td>
-<td align="right"><strong>23.4%</strong></td>
+<td align="right"><strong>22.3%</strong></td>
 </tr>
 
 <tr>
 <td><strong>JavaScript</strong></td>
-<td align="right"><strong>20.3%</strong></td>
+<td align="right"><strong>19.4%</strong></td>
 </tr>
 
 <tr>
 <td><strong>SCSS</strong></td>
-<td align="right"><strong>14.8%</strong></td>
+<td align="right"><strong>14.1%</strong></td>
 </tr>
 
 <tr>
 <td><strong>TypeScript</strong></td>
-<td align="right"><strong>14.0%</strong></td>
+<td align="right"><strong>13.3%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Java</strong></td>
-<td align="right"><strong>2.3%</strong></td>
+<td align="right"><strong>2.2%</strong></td>
 </tr>
 
 </table>
@@ -537,6 +537,12 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
+<td><a href="https://github.com/amolpawar24/Bootstrap"><strong>Bootstrap</strong></a></td>
+<td align="center"><sub>HTML</sub></td>
+<td align="right"><sub>16 hrs ago</sub></td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
 <td align="right"><sub>23 hrs ago</sub></td>
@@ -545,30 +551,24 @@ focus on **AI-powered applications**.
 <tr>
 <td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
 <td align="center"><sub>—</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
+<td align="right"><sub>4 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/Gymso-Fitness-Website"><strong>Gymso-Fitness-Website</strong></a></td>
 <td align="center"><sub>CSS</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
+<td align="right"><sub>4 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/PrepInsta-Top-100-Codes"><strong>PrepInsta-Top-100-Codes</strong></a></td>
 <td align="center"><sub>—</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
+<td align="right"><sub>4 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td>
-<td align="center"><sub>CSS</sub></td>
 <td align="right"><sub>4 days ago</sub></td>
 </tr>
 
@@ -580,8 +580,8 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-497-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Repositories-14-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-518-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-15-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -606,7 +606,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">98</td>
+<td align="right">100</td>
 </tr>
 
 <tr>
@@ -622,6 +622,11 @@ focus on **AI-powered applications**.
 <tr>
 <td><a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a></td>
 <td align="right">23</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Bootstrap"><strong>Bootstrap</strong></a></td>
+<td align="right">19</td>
 </tr>
 
 <tr>
@@ -666,7 +671,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>497</strong></td>
+<td align="right"><strong>518</strong></td>
 </tr>
 
 </table>
@@ -675,7 +680,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<sub>🕐 Last updated: 22 Sept 2026, 9:21 am IST</sub>
+<sub>🕐 Last updated: 23 Sept 2026, 9:19 am IST</sub>
 
 <br>
 
