@@ -545,31 +545,31 @@ focus on **AI-powered applications**.
 <tr>
 <td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
+<td align="right"><sub>2 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
 <td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
+<td align="right"><sub>2 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/Gym-Webapp"><strong>Gym-Webapp</strong></a></td>
 <td align="center"><sub>CSS</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
+<td align="right"><sub>4 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/jQuery"><strong>jQuery</strong></a></td>
 <td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>4 days ago</sub></td>
+<td align="right"><sub>5 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/Bootstrap"><strong>Bootstrap</strong></a></td>
 <td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>6 days ago</sub></td>
+<td align="right"><sub>7 days ago</sub></td>
 </tr>
 
 </table>
@@ -580,7 +580,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-654-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-656-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-17-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -600,13 +600,13 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
 <td align="right">114</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">112</td>
+<td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td>
+<td align="right">114</td>
 </tr>
 
 <tr>
@@ -681,7 +681,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>654</strong></td>
+<td align="right"><strong>656</strong></td>
 </tr>
 
 </table>
@@ -690,7 +690,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<sub>🕐 Last updated: 29 Sept 2026, 10:18 am IST</sub>
+<sub>🕐 Last updated: 30 Sept 2026, 10:04 am IST</sub>
 
 <br>
 
