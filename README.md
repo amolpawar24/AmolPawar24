@@ -5,12 +5,11 @@
 <!--           across every section, including the footer.          -->
 <!--                                                                 -->
 <!--  CHANGELOG (this revision):                                     -->
-<!--  1. Removed github-readme-activity-graph.vercel.app — the host  -->
-<!--     returns HTTP 402 DEPLOYMENT_DISABLED and renders as a       -->
-<!--     broken image. Replaced with github-profile-summary-cards.   -->
-<!--  2. Footer + header SVGs now use absolute raw.githubusercontent -->
-<!--     URLs with a ?v= cache-buster instead of relative paths.     -->
-<!--     Bump the ?v= number whenever you edit those SVG files.      -->
+<!--  1. Added animated developer card (assets/dev-card.svg) under   -->
+<!--     the "What I Do" typing text.                                -->
+<!--  2. Removed the old circular avatar from the analytics table;   -->
+<!--     stats + top-languages columns widened to 50% each.          -->
+<!--  3. Bump the ?v= number whenever you edit any SVG in /assets.   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────────────────────────────────────────────────────────── -->
@@ -32,6 +31,17 @@
 </div>
 
 <br clear="both">
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  DEVELOPER CARD (animated: laser-scanned photo + typing code)   -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/dev-card.svg?v=1"
+       width="100%" alt="Amol Pawar — Developer Card"/>
+</div>
+
+<br/>
 
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!--  SOCIAL / QUICK LINKS                                           -->
@@ -280,20 +290,13 @@ focus on **AI-powered applications**.
 
 <table width="100%" align="center">
   <tr>
-    <!-- Avatar / profile column -->
-    <td align="center" width="20%">
-      <img src="https://github.com/amolpawar24.png" width="120" height="120"
-           style="border-radius:50%;border:3px solid #DC2626;" alt="Amol Pawar" />
-      <br/><br/>
-      <sub><strong>@amolpawar24</strong></sub>
-    </td>
     <!-- Stats column -->
-    <td align="center" width="40%">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats-fast.vercel.app/api?username=amolpawar24&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8&hide_border=false"
            width="100%" alt="GitHub Stats" />
     </td>
     <!-- Top languages column -->
-    <td align="center" width="40%">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amolpawar24&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8&hide_border=false"
            width="100%" alt="Top Languages" />
     </td>
@@ -827,13 +830,6 @@ focus on **AI-powered applications**.
 </td>
 </tr>
 </table>
-
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!--  Absolute raw URL + cache-buster. If this still shows a broken  -->
-<!--  image, open the URL below in a browser: a 404 means the file   -->
-<!--  was never committed, or the path/branch/casing is wrong.       -->
-<!--  Bump ?v=2 to ?v=3 after any edit to footer.svg.                -->
-<!-- ─────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
