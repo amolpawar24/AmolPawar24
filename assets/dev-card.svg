@@ -142,19 +142,72 @@
     <line x1="610" y1="0" x2="850" y2="0" stroke="url(#border-grad)" stroke-width="1.5" stroke-opacity="0.8"/>
   </g>
 
-  <!-- code panel -->
-  <rect x="296" y="166" width="568" height="86" rx="8" fill="#0c0709" stroke="#ef4444" stroke-opacity="0.25"/>
-  <g class="mono" xml:space="preserve">
-    <text x="310" y="192" clip-path="url(#c1)"><tspan fill="#EF4444">const</tspan><tspan fill="#f3f4f6"> developer </tspan><tspan fill="#9ca3af">= {</tspan></text>
-    <text x="310" y="208" clip-path="url(#c2)"><tspan fill="#f3f4f6">  stack</tspan><tspan fill="#9ca3af">: [</tspan><tspan fill="#F87171">"React"</tspan><tspan fill="#9ca3af">, </tspan><tspan fill="#F87171">"Node"</tspan><tspan fill="#9ca3af">, </tspan><tspan fill="#F87171">"MongoDB"</tspan><tspan fill="#9ca3af">, </tspan><tspan fill="#F87171">"Java"</tspan><tspan fill="#9ca3af">],</tspan></text>
-    <text x="310" y="224" clip-path="url(#c3)"><tspan fill="#f3f4f6">  openToWork</tspan><tspan fill="#9ca3af">: </tspan><tspan fill="#EF4444">true</tspan><tspan fill="#9ca3af">  };</tspan></text>
-    <text x="310" y="240" clip-path="url(#c4)"><tspan fill="#EF4444">$ </tspan><tspan fill="#f3f4f6">npm run build-future</tspan></text>
-    <rect x="478" y="229" width="8" height="13" fill="#EF4444" opacity="0">
-      <animate attributeName="opacity" dur="12s" repeatCount="indefinite" calcMode="discrete"
-               values="0;1;0;1;0;1;0;1;0;0" keyTimes="0;0.40;0.5;0.6;0.7;0.8;0.9;0.94;0.96;1"/>
-    </rect>
-  </g>
+<!-- code panel --> 
+<rect x="296" y="166" width="568" height="118" rx="8" fill="#0c0709" stroke="#ef4444" stroke-opacity="0.25"/> 
 
+<g class="mono" xml:space="preserve"> 
+
+  <text x="310" y="192" clip-path="url(#c1)">
+    <tspan fill="#EF4444">const</tspan>
+    <tspan fill="#f3f4f6"> developer </tspan>
+    <tspan fill="#9ca3af">= {</tspan>
+  </text> 
+
+  <text x="310" y="208" clip-path="url(#c2)">
+    <tspan fill="#f3f4f6">  stack</tspan>
+    <tspan fill="#9ca3af">: [</tspan>
+    <tspan fill="#F87171">"React"</tspan>
+    <tspan fill="#9ca3af">, </tspan>
+    <tspan fill="#F87171">"Node"</tspan>
+    <tspan fill="#9ca3af">, </tspan>
+    <tspan fill="#F87171">"MongoDB"</tspan>
+    <tspan fill="#9ca3af">,</tspan>
+  </text>
+
+  <text x="310" y="224" clip-path="url(#c3)">
+    <tspan fill="#f3f4f6">  </tspan>
+    <tspan fill="#F87171">"Java"</tspan>
+    <tspan fill="#9ca3af">, </tspan>
+    <tspan fill="#F87171">"SQL"</tspan>
+    <tspan fill="#9ca3af">, </tspan>
+    <tspan fill="#F87171">"React Native"</tspan>
+    <tspan fill="#9ca3af">,</tspan>
+  </text>
+
+  <text x="310" y="240" clip-path="url(#c4)">
+    <tspan fill="#f3f4f6">  </tspan>
+    <tspan fill="#F87171">"Expo"</tspan>
+    <tspan fill="#9ca3af">, </tspan>
+    <tspan fill="#F87171">"Python"</tspan>
+    <tspan fill="#9ca3af">, </tspan>
+    <tspan fill="#F87171">"Django"</tspan>
+    <tspan fill="#9ca3af">],</tspan>
+  </text>
+
+  <text x="310" y="256">
+    <tspan fill="#f3f4f6">  openToWork</tspan>
+    <tspan fill="#9ca3af">: </tspan>
+    <tspan fill="#EF4444">true</tspan>
+    <tspan fill="#9ca3af"> };</tspan>
+  </text>
+
+  <text x="310" y="272">
+    <tspan fill="#EF4444">$ </tspan>
+    <tspan fill="#f3f4f6">npm run build-future</tspan>
+  </text>
+
+  <rect x="478" y="261" width="8" height="13" fill="#EF4444" opacity="0"> 
+    <animate 
+      attributeName="opacity" 
+      dur="12s" 
+      repeatCount="indefinite" 
+      calcMode="discrete" 
+      values="0;1;0;1;0;1;0;1;0;0" 
+      keyTimes="0;0.40;0.5;0.6;0.7;0.8;0.9;0.94;0.96;1"
+    /> 
+  </rect> 
+
+</g>
   <!-- tagline -->
   <text x="580" y="278" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#94a3b8" letter-spacing="1.5">
     <tspan fill="#ef4444">&lt;/&gt;</tspan> BUILDING CLEAN, SCALABLE WEB APPS
