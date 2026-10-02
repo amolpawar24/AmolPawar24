@@ -5,20 +5,20 @@
 <!--           across every section, including the footer.          -->
 <!--                                                                 -->
 <!--  CHANGELOG (this revision):                                     -->
-<!--  1. Added animated developer card (assets/dev-card.svg) under   -->
-<!--     the "What I Do" typing text.                                -->
+<!--  1. Header banner replaced by animated developer card          -->
+<!--     (assets/dev-card.svg) - photo scan + name + typing code.    -->
 <!--  2. Removed the old circular avatar from the analytics table;   -->
 <!--     stats + top-languages columns widened to 50% each.          -->
 <!--  3. Bump the ?v= number whenever you edit any SVG in /assets.   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────────────────────────────────────────────────────────── -->
-<!--  HEADER BANNER                                                  -->
+<!--  HEADER BANNER (animated developer card)                        -->
 <!-- ─────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/header.svg?v=2" width="100%" alt="Amol Pawar — Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/dev-card.svg?v=2" width="100%" alt="Amol Pawar — Full Stack Developer"/>
 
 <br/>
 
@@ -31,17 +31,6 @@
 </div>
 
 <br clear="both">
-
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!--  DEVELOPER CARD (animated: laser-scanned photo + typing code)   -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/dev-card.svg?v=1"
-       width="100%" alt="Amol Pawar — Developer Card"/>
-</div>
-
-<br/>
 
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!--  SOCIAL / QUICK LINKS                                           -->
