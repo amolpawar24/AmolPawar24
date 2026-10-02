@@ -32,13 +32,6 @@
 </div>
 
 <br clear="both">
-<!-- Avatar / profile column -->
-<td align="center" width="20%">
-    <img src="https://github.com/amolpawar24.png" width="120" height="120"
-           style="border-radius:50%;border:3px solid #DC2626;" alt="Amol Pawar" />
-      <br/><br/>
-    <sub><strong>@amolpawar24</strong></sub>
-</td>
 
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!--  SOCIAL / QUICK LINKS                                           -->
