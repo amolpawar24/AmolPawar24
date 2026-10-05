@@ -466,12 +466,12 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SCSS-28.0%25-6D28D9?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/TypeScript-25.7%25-6D28D9?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML-19.5%25-6D28D9?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-11.9%25-6D28D9?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-11.4%25-6D28D9?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-2.0%25-6D28D9?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/SCSS-27.3%25-6D28D9?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-25.9%25-6D28D9?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-19.7%25-6D28D9?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-12.1%25-6D28D9?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-11.5%25-6D28D9?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-1.9%25-6D28D9?style=flat-square" alt="Python" />
 
 </div>
 
@@ -486,32 +486,32 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>SCSS</strong></td>
-<td align="right"><strong>28.0%</strong></td>
+<td align="right"><strong>27.3%</strong></td>
 </tr>
 
 <tr>
 <td><strong>TypeScript</strong></td>
-<td align="right"><strong>25.7%</strong></td>
+<td align="right"><strong>25.9%</strong></td>
 </tr>
 
 <tr>
 <td><strong>HTML</strong></td>
-<td align="right"><strong>19.5%</strong></td>
+<td align="right"><strong>19.7%</strong></td>
 </tr>
 
 <tr>
 <td><strong>CSS</strong></td>
-<td align="right"><strong>11.9%</strong></td>
+<td align="right"><strong>12.1%</strong></td>
 </tr>
 
 <tr>
 <td><strong>JavaScript</strong></td>
-<td align="right"><strong>11.4%</strong></td>
+<td align="right"><strong>11.5%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Python</strong></td>
-<td align="right"><strong>2.0%</strong></td>
+<td align="right"><strong>1.9%</strong></td>
 </tr>
 
 </table>
@@ -531,37 +531,37 @@ focus on **AI-powered applications**.
 <tr>
 <td><a href="https://github.com/amolpawar24/pulse-frontend"><strong>pulse-frontend</strong></a></td>
 <td align="center"><sub>SCSS</sub></td>
-<td align="right"><sub>1 min ago</sub></td>
+<td align="right"><sub>12 hrs ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/pulse-backend"><strong>pulse-backend</strong></a></td>
 <td align="center"><sub>Python</sub></td>
-<td align="right"><sub>9 mins ago</sub></td>
+<td align="right"><sub>12 hrs ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>5 hrs ago</sub></td>
+<td align="right"><sub>18 hrs ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
 <td align="center"><sub>Python</sub></td>
-<td align="right"><sub>23 hrs ago</sub></td>
+<td align="right"><sub>1 day ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
 <td align="center"><sub>Java</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
+<td align="right"><sub>2 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
 <td align="center"><sub>TypeScript</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
+<td align="right"><sub>4 days ago</sub></td>
 </tr>
 
 </table>
@@ -572,7 +572,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-851-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-872-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-20-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -588,17 +588,17 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">137</td>
+<td align="right">138</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/pulse-frontend"><strong>pulse-frontend</strong></a></td>
+<td align="right">135</td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
 <td align="right">128</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/pulse-frontend"><strong>pulse-frontend</strong></a></td>
-<td align="right">119</td>
 </tr>
 
 <tr>
@@ -652,13 +652,13 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
+<td><a href="https://github.com/amolpawar24/pulse-backend"><strong>pulse-backend</strong></a></td>
 <td align="right">13</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/pulse-backend"><strong>pulse-backend</strong></a></td>
-<td align="right">9</td>
+<td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
+<td align="right">13</td>
 </tr>
 
 <tr>
@@ -688,7 +688,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>851</strong></td>
+<td align="right"><strong>872</strong></td>
 </tr>
 
 </table>
@@ -697,7 +697,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<sub>🕐 Last updated: 4 Oct 2026, 3:38 pm IST</sub>
+<sub>🕐 Last updated: 5 Oct 2026, 10:08 am IST</sub>
 
 <br>
 
