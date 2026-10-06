@@ -1,18 +1,735 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  AMOL PAWAR — GITHUB PROFILE README (BLUE THEME)                -->
+<!--  Palette: navy #070b16 / #0c1428 + electric blue #247bff        -->
+<!--           light blue #3b8bff / #7fb2ff, deep blue #0b2a66       -->
+<!--  Bump the ?v= number whenever you edit any SVG in /assets.      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Intro](https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v1/assets/hero.svg?v=1)
+<img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/dev-card/dev-card.svg?v=1" width="100%" alt="Amol Pawar — Full Stack Developer"/>
 
-![About](https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v1/assets/about-life.svg?v=1)
+<br/>
 
-![Stack](https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v1/assets/stack.svg?v=1)
+### 🚀 &nbsp;What I Do
 
-![Projects](https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v1/assets/projects.svg?v=1)
+<a href="https://github.com/amolpawar24">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=247BFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+%7C+Java+Full+Stack;1+Year+Experience+in+React.js;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-![Activity](https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v1/assets/activity.svg?v=1)
+</div>
 
-![ID](https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v1/assets/id-dashboard.svg?v=1)
+<br clear="both">
 
-![Connect](https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v1/assets/connect.svg?v=1)
+<div align="center">
 
+<a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Follow-247bff?style=for-the-badge&logo=facebook&logoColor=white&labelColor=070b16" alt="Facebook" />
+</a>&nbsp;
+<a href="https://www.instagram.com/amolpawar.24/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-247bff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=070b16" alt="Instagram" />
+</a>&nbsp;
+<a href="https://x.com/AmolPawar2404" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow-247bff?style=for-the-badge&logo=x&logoColor=white&labelColor=070b16" alt="X" />
+</a>&nbsp;
+<a href="mailto:amolpawar.me@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-247bff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070b16" alt="Email" />
+</a>&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Drive-247bff?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=070b16" alt="Resume" />
+</a>&nbsp;
+<a href="https://amolpawar.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-247bff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=070b16" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/amolpawar24" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="GitHub" />
+</a>&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-247bff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=070b16" alt="LeetCode" />
+</a>&nbsp;
+<a href="https://dev.to/amolpawar24" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-Read-247bff?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=070b16" alt="Dev.to" />
+</a>&nbsp;
+<a href="https://medium.com/@amolpawar.me" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-Read-247bff?style=for-the-badge&logo=medium&logoColor=white&labelColor=070b16" alt="Medium" />
+</a>
+
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amolpawar24&label=Profile%20Views&color=247bff&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br clear="both">
+
+<h2 align="center">🔵 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=7FB2FF&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width:600px;" alt="Typing Quote" />
+</p>
+
+<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+
+Hey! I'm **Amol Pawar**, a passionate **Full Stack Developer** based in Maharashtra, India.
+I specialize in building clean, scalable web applications using the **MERN stack**, with hands-on
+experience in **React.js**, a working knowledge of **Java Full Stack** development, and a growing
+focus on **AI-powered applications**.
+
+- 🚀 &nbsp;**Full Stack Developer** — MERN Stack (React, Node.js, MongoDB) &amp; Java Full Stack
+- 🤖 &nbsp;**Exploring AI** — integrating AI tools and models into full-stack projects
+- 💼 &nbsp;**1 year of experience** as a React.js Developer
+- 🌱 &nbsp;Currently deepening my skills across React, Node.js, and system design
+- 📍 &nbsp;Based in Maharashtra, India
+- 🟢 &nbsp;Open to full-stack development opportunities
+- ⚡ &nbsp;Fun fact: Code. Break. Fix. Repeat.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Work-0c1428?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-247bff?style=flat-square" alt="Role" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Full_Stack_Development-0c1428?style=flat-square" alt="Focus" />
+</p>
+
+💬 &nbsp;**Let's Discuss:** JavaScript, React.js, Node.js, MongoDB, Java, AI Integration, Full Stack Architecture &amp; Git Workflows.
+⚡ &nbsp;**Philosophy:** *"Turning random ideas into production-ready code."*
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  MY STACK (animated orbit SVG, blue theme)                      -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<h2 align="center">🔵 My Stack</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/stack/stack.svg?v=1" width="100%" alt="My Tech Stack"/>
+</div>
+
+<br/>
+
+<h2 align="center">🔵 Developer ID</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/id-dashboard/id-dashboard.svg?v=1" width="100%" alt="Amol Pawar — Developer ID"/>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<h2 align="center">🔵 Featured Projects</h2>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td align="center" width="50%" style="padding:22px;">
+      <h3>🌐 BPL Official</h3>
+      <p><i>A modern, responsive platform built on React/Next.js with a Node.js backend.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/-React-247bff?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Node.js-0c1428?style=flat-square&logo=node.js&logoColor=7fb2ff" />
+        <img src="https://img.shields.io/badge/-MongoDB-247bff?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-247bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b16" alt="Live Demo" />
+        </a>&nbsp;
+        <a href="https://github.com/amolpawar24" target="_blank">
+          <img src="https://img.shields.io/badge/Source-💻%20Code-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%" style="padding:22px;">
+      <h3>🛠️ BPL Admin Dashboard</h3>
+      <p><i>Feature-rich dashboard with real-time data management and a clean UI.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/-React-247bff?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Redux-0c1428?style=flat-square&logo=redux&logoColor=7fb2ff" />
+        <img src="https://img.shields.io/badge/-MUI-247bff?style=flat-square&logo=mui&logoColor=white" />
+      </p>
+      <p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-247bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b16" alt="Live Demo" />
+        </a>&nbsp;
+        <a href="https://github.com/amolpawar24" target="_blank">
+          <img src="https://img.shields.io/badge/Source-💻%20Code-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" style="padding:22px;">
+      <h3>⚙️ BPL Backend API</h3>
+      <p><i>RESTful API built with Express &amp; MongoDB powering the entire BPL ecosystem.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/-Express-0c1428?style=flat-square&logo=express&logoColor=7fb2ff" />
+        <img src="https://img.shields.io/badge/-MongoDB-247bff?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/-REST%20API-247bff?style=flat-square&logo=postman&logoColor=white" />
+      </p>
+      <p>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-247bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b16" alt="Live Demo" />
+        </a>&nbsp;
+        <a href="https://github.com/amolpawar24" target="_blank">
+          <img src="https://img.shields.io/badge/Source-💻%20Code-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%" style="padding:22px;">
+      <h3>💼 Portfolio Website</h3>
+      <p><i>Personal portfolio showcasing projects, skills &amp; experience — fully responsive.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-0c1428?style=flat-square&logo=next.js&logoColor=7fb2ff" />
+        <img src="https://img.shields.io/badge/-Tailwind-247bff?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Vercel-0c1428?style=flat-square&logo=vercel&logoColor=7fb2ff" />
+      </p>
+      <p>
+        <a href="https://amolpawar.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-247bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b16" alt="Live Demo" />
+        </a>&nbsp;
+        <a href="https://github.com/amolpawar24" target="_blank">
+          <img src="https://img.shields.io/badge/Source-💻%20Code-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="Source Code" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=amolpawar24&show_icons=true&bg_color=070b16&title_color=3b8bff&text_color=f4f6fb&icon_color=247bff&border_color=247bff&border_radius=8&hide_border=false"
+           width="100%" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amolpawar24&layout=compact&bg_color=070b16&title_color=3b8bff&text_color=f4f6fb&border_color=247bff&border_radius=8&hide_border=false"
+           width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=amolpawar24&locale=en&mode=daily&theme=dark&hide_border=true&background=070b16&stroke=247bff&ring=247bff&fire=3b8bff&currStreakLabel=3b8bff&sideLabels=f4f6fb&currStreakNum=f4f6fb&sideNums=f4f6fb&dates=6b7280&date_format=j%20M%5B%20Y%5D"
+     height="150" alt="GitHub Streak" />
+
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  AUTO-GENERATED GITHUB DASHBOARD                                -->
+<!--  Everything between START_SECTION and END_SECTION is generated  -->
+<!--  by scripts/generate-dashboard.js via GitHub Actions. Edit the  -->
+<!--  generator script, not this block.                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 GitHub Dashboard
+
+</div>
+
+<!--START_SECTION:github-dashboard-->
+
+<div align="center">
+
+### ⚡ GitHub Statistics
+
+<p>
+<sub>Automatically generated from GitHub data</sub>
+</p>
+
+</div>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+<strong>📦 20</strong>
+<br>
+<sub>Repositories</sub>
+</td>
+
+<td align="center">
+<strong>⭐ 0</strong>
+<br>
+<sub>Stars</sub>
+</td>
+
+<td align="center">
+<strong>🍴 0</strong>
+<br>
+<sub>Forks</sub>
+</td>
+
+<td align="center">
+<strong>👥 0</strong>
+<br>
+<sub>Followers</sub>
+</td>
+
+<td align="center">
+<strong>🐛 0</strong>
+<br>
+<sub>Open Issues</sub>
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+### 🏆 Top Repositories
+
+<table width="100%">
+
+<tr>
+<th align="center">#</th>
+<th>Repository</th>
+<th align="center">Language</th>
+<th align="center">⭐</th>
+<th align="center">🍴</th>
+</tr>
+
+<tr>
+<td align="center"><strong>1</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a>
+<br>
+<sub>A comprehensive Advanced Java learning repository covering Multithreading, Concurrency, File Handlin...</sub>
+</td>
+<td align="center"><sub>—</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>2</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a>
+</td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>3</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a>
+<br>
+<sub>🏍️ Modern & Responsive Bike Rental Website \| Explore Bikes, Scooters, Rental Categories, Brands, Ga...</sub>
+</td>
+<td align="center"><sub>CSS</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>4</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/Bootstrap"><strong>Bootstrap</strong></a>
+<br>
+<sub>Complete Bootstrap 5 learning repository covering fundamentals, responsive layouts, components, util...</sub>
+</td>
+<td align="center"><sub>HTML</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>5</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a>
+<br>
+<sub>☕ Core Java concepts, practical programs, OOP, Collections, Exception Handling, Strings, Arrays & mo...</sub>
+</td>
+<td align="center"><sub>Java</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+<tr>
+<td align="center"><strong>6</strong></td>
+<td>
+<a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a>
+<br>
+<sub>🎨 Master CSS3 from fundamentals to advanced concepts with selectors, box model, Flexbox, Grid, resp...</sub>
+</td>
+<td align="center"><sub>—</sub></td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+
+</table>
+
+<br>
+
+### 💻 Code Distribution
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SCSS-27.3%25-247bff?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-25.9%25-247bff?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-19.7%25-247bff?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-12.1%25-247bff?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-11.5%25-247bff?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-1.9%25-247bff?style=flat-square" alt="Python" />
+
+</div>
+
+<br>
+
+<table width="100%">
+
+<tr>
+<th>Language</th>
+<th align="right">Usage</th>
+</tr>
+
+<tr>
+<td><strong>SCSS</strong></td>
+<td align="right"><strong>27.3%</strong></td>
+</tr>
+
+<tr>
+<td><strong>TypeScript</strong></td>
+<td align="right"><strong>25.9%</strong></td>
+</tr>
+
+<tr>
+<td><strong>HTML</strong></td>
+<td align="right"><strong>19.7%</strong></td>
+</tr>
+
+<tr>
+<td><strong>CSS</strong></td>
+<td align="right"><strong>12.1%</strong></td>
+</tr>
+
+<tr>
+<td><strong>JavaScript</strong></td>
+<td align="right"><strong>11.5%</strong></td>
+</tr>
+
+<tr>
+<td><strong>Python</strong></td>
+<td align="right"><strong>1.9%</strong></td>
+</tr>
+
+</table>
+
+<br>
+
+### 🚀 Recent Repository Activity
+
+<table width="100%">
+
+<tr>
+<th>Repository</th>
+<th align="center">Language</th>
+<th align="right">Updated</th>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/pulse-frontend"><strong>pulse-frontend</strong></a></td>
+<td align="center"><sub>SCSS</sub></td>
+<td align="right"><sub>12 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/pulse-backend"><strong>pulse-backend</strong></a></td>
+<td align="center"><sub>Python</sub></td>
+<td align="right"><sub>12 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>18 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
+<td align="center"><sub>Python</sub></td>
+<td align="right"><sub>1 day ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
+<td align="center"><sub>Java</sub></td>
+<td align="right"><sub>2 days ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
+<td align="center"><sub>TypeScript</sub></td>
+<td align="right"><sub>4 days ago</sub></td>
+</tr>
+
+</table>
+
+<br>
+
+### 📊 Repository Commits
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Total%20Commits-872-247bff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-20-3b8bff?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<br>
+
+<table width="100%">
+
+<tr>
+<th>📦 Repository</th>
+<th align="right">💻 Commits</th>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td align="right">138</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/pulse-frontend"><strong>pulse-frontend</strong></a></td>
+<td align="right">135</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
+<td align="right">128</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Portfolio-5"><strong>Portfolio-5</strong></a></td>
+<td align="right">114</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
+<td align="right">70</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
+<td align="right">56</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
+<td align="right">50</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/jQuery"><strong>jQuery</strong></a></td>
+<td align="right">36</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Gym-Webapp"><strong>Gym-Webapp</strong></a></td>
+<td align="right">24</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Bike-Rental"><strong>Bike-Rental</strong></a></td>
+<td align="right">23</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
+<td align="right">22</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Bootstrap"><strong>Bootstrap</strong></a></td>
+<td align="right">19</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Gymso-Fitness-Website"><strong>Gymso-Fitness-Website</strong></a></td>
+<td align="right">14</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/pulse-backend"><strong>pulse-backend</strong></a></td>
+<td align="right">13</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
+<td align="right">13</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td>
+<td align="right">6</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/PrepInsta-Top-100-Codes"><strong>PrepInsta-Top-100-Codes</strong></a></td>
+<td align="right">2</td>
+</tr>
+
+<tr>
+<td><strong>Total</strong></td>
+<td align="right"><strong>872</strong></td>
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<sub>🕐 Last updated: 5 Oct 2026, 10:08 am IST</sub>
+
+<br>
+
+<sub>🤖 Powered by GitHub Actions</sub>
+
+</div>
+
+<!--END_SECTION:github-dashboard-->
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:247bff,100:0b2a66&height=120&section=header&text=Code.%20Break.%20Fix.%20Repeat.&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
+</div>
+
+<br clear="both">
+
+<div align="center">
+
+### 📅 Contribution Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amolpawar24&theme=github_dark" width="100%" alt="Profile details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amolpawar24&theme=github_dark" height="180" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amolpawar24&theme=github_dark" height="180" alt="Most commit language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amolpawar24&theme=github_dark" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amolpawar24&theme=github_dark&utcOffset=5.5" height="180" alt="Productive time" />
+
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" />
+<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+
+<table width="100%" cellspacing="8" border="0">
+  <tr>
+    <td rowspan="4" width="48%" valign="middle"><a href="https://amolpawar.netlify.app/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/connect-left.svg?v=1" width="100%" alt="Let's build something great"/></a></td>
+    <td width="26%"><a href="mailto:amolpawar.me@gmail.com"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-email.svg?v=1" width="100%" alt="Email"/></a></td>
+    <td width="26%"><a href="https://github.com/amolpawar24"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-github.svg?v=1" width="100%" alt="GitHub"/></a></td>
+  </tr>
+  <tr>
+    <td width="26%"><a href="https://www.instagram.com/amolpawar.24/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-instagram.svg?v=1" width="100%" alt="Instagram"/></a></td>
+    <td width="26%"><a href="https://x.com/AmolPawar2404"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-x.svg?v=1" width="100%" alt="X"/></a></td>
+  </tr>
+  <tr>
+    <td width="26%"><a href="https://medium.com/@amolpawar.me"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-medium.svg?v=1" width="100%" alt="Medium"/></a></td>
+    <td width="26%"><a href="https://dev.to/amolpawar24"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-devto.svg?v=1" width="100%" alt="Dev.to"/></a></td>
+  </tr>
+  <tr>
+    <td width="26%"><a href="https://amolpawar.netlify.app/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-portfolio.svg?v=1" width="100%" alt="Portfolio"/></a></td>
+    <td width="26%"><a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-facebook.svg?v=1" width="100%" alt="Facebook"/></a></td>
+  </tr>
+</table>
+
+
+<div align="center">
+
+<h1>Thanks for Visiting 👋</h1>
+
+<sub>Let's build something great together — reach out any time.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,50:0b2a66,100:247bff&height=120&section=footer" width="100%"/>
 </div>
