@@ -7,10 +7,16 @@
 
 <div align="center">
 
+<!-- HERO BANNER: full-width dev card (name + role) from assets/dev-card/dev-card.svg
+     Served via raw.githubusercontent.com, so the file must be pushed to the `main` branch.
+-->
 <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/dev-card/dev-card.svg?v=2" width="100%" alt="Amol Pawar — Full Stack Developer"/>
 
 <br/>
 
+<!-- WHAT I DO: heading + animated typing line (readme-typing-svg).
+     Edit the text in the `lines=` part of the URL. Use + for spaces and %7C for the | character.
+-->
 ### 🚀 &nbsp;What I Do
 
 <a href="https://github.com/amolpawar24">
@@ -23,6 +29,10 @@
 
 <div align="center">
 
+
+<!-- SOCIAL BADGES (row 1): Facebook, Instagram, X, Email, Resume, Portfolio.
+     Badges come from shields.io. Resume and LeetCode still use href="#" - replace with your real links.
+-->
 <a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-Follow-247bff?style=for-the-badge&logo=facebook&logoColor=white&labelColor=070b16" alt="Facebook" />
 </a>&nbsp;
@@ -44,6 +54,7 @@
 
 <br/><br/>
 
+<!-- SOCIAL BADGES (row 2): GitHub, LeetCode, Dev.to, Medium. -->
 <a href="https://github.com/amolpawar24" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Follow-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="GitHub" />
 </a>&nbsp;
@@ -61,16 +72,21 @@
 
 <br clear="both">
 
+<!-- SECTION DIVIDER: small animated line (reused between sections) -->
 <div align="center">
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
 <div align="center">
+<!-- PROFILE VIEWS: visitor counter from komarev.com. The count goes up on every README view. -->
   <img src="https://komarev.com/ghpvc/?username=amolpawar24&label=Profile%20Views&color=247bff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br clear="both">
 
+<!-- ABOUT ME: short intro, a typing quote, bullet highlights and status badges.
+     The two GIFs (right-aligned decoration) are hosted on user-images.githubusercontent.com.
+-->
 <h2 align="center">🔵 About Me</h2>
 
 <p align="center">
@@ -109,10 +125,14 @@ focus on **AI-powered applications**.
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
+<!-- WHAT I BUILD: capabilities / what I am exploring, drawn as assets/about-life/about-life.svg
+     If this image is blank, check that the file exists on `main` at exactly
+     assets/about-life/about-life.svg (names are case-sensitive), then bump ?v= below.
+-->
 <h2 align="center">🔵 What I Build</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/about-life/about-life.svg?v=1" width="100%" alt="What I build — capabilities and what I'm exploring"/>
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/about-life/about-life.svg?v=3" width="100%" alt="What I build — capabilities and what I'm exploring"/>
 </div>
 
 <br clear="both">
@@ -125,6 +145,7 @@ focus on **AI-powered applications**.
 <!--  MY STACK (animated orbit SVG, blue theme)                      -->
 <!-- ─────────────────────────────────────────────────────────────── -->
 
+<!-- MY STACK: animated orbit of tech icons, from assets/stack/stack.svg -->
 <h2 align="center">🔵 My Stack</h2>
 
 <div align="center">
@@ -133,6 +154,7 @@ focus on **AI-powered applications**.
 
 <br/>
 
+<!-- DEVELOPER ID: ID-card style dashboard, from assets/id-dashboard/id-dashboard.svg -->
 <h2 align="center">🔵 Developer ID</h2>
 
 <div align="center">
@@ -145,10 +167,13 @@ focus on **AI-powered applications**.
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
+<!-- FEATURED PROJECTS: project cards from assets/projects/projects.svg
+     Buttons below the image link to the live portfolio and the full repository list.
+-->
 <h2 align="center">🔵 Featured Projects</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/projects/projects.svg?v=1" width="100%" alt="Featured projects — BPL Official, BPL Admin Dashboard, BPL Backend API, Portfolio Website"/>
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/projects/projects.svg?v=3" width="100%" alt="Featured projects — BPL Official, BPL Admin Dashboard, BPL Backend API, Portfolio Website"/>
 </div>
 
 <br/>
@@ -168,10 +193,13 @@ focus on **AI-powered applications**.
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
+<!-- GITHUB ANALYTICS & ACTIVITY: commits-by-repo chart from assets/activity/activity.svg,
+     followed by live stats + top languages cards (github-readme-stats-fast on Vercel).
+-->
 <h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/activity/activity.svg?v=1" width="100%" alt="GitHub activity — commits by repository and language mix"/>
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/activity/activity.svg?v=3" width="100%" alt="GitHub activity — commits by repository and language mix"/>
 </div>
 
 <br/>
@@ -193,6 +221,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
+<!-- GITHUB STREAK: current / longest contribution streak card (github-readme-streak-stats). -->
 ### 🔥 GitHub Streak
 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=amolpawar24&locale=en&mode=daily&theme=dark&hide_border=true&background=070b16&stroke=247bff&ring=247bff&fire=3b8bff&currStreakLabel=3b8bff&sideLabels=f4f6fb&currStreakNum=f4f6fb&sideNums=f4f6fb&dates=6b7280&date_format=j%20M%5B%20Y%5D"
@@ -215,6 +244,10 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
+<!-- GITHUB DASHBOARD: heading is manual, but the content between START_SECTION and
+     END_SECTION is rewritten by GitHub Actions - do NOT add comments or edits inside it,
+     they will be overwritten on the next run.
+-->
 ## 📊 GitHub Dashboard
 
 </div>
@@ -609,6 +642,7 @@ focus on **AI-powered applications**.
 </div>
 
 <div align="center">
+<!-- DIVIDER BANNER: "Code. Break. Fix. Repeat." header from capsule-render. -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:247bff,100:0b2a66&height=120&section=header&text=Code.%20Break.%20Fix.%20Repeat.&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
 </div>
 
@@ -616,6 +650,9 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
+<!-- CONTRIBUTION ACTIVITY: profile summary cards (profile details, repos per language,
+     most-commit language, stats, productive time). utcOffset=5.5 = IST.
+-->
 ### 📅 Contribution Activity
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amolpawar24&theme=github_dark" width="100%" alt="Profile details" />
@@ -638,12 +675,16 @@ focus on **AI-powered applications**.
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
+<!-- DECORATIVE GIFS: left and right side animations above the snake. -->
 <img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" />
 <img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 
 <br clear="both">
 
 <div align="center">
+<!-- SNAKE ANIMATION: contribution-graph snake. Needs the Platane/snk GitHub Action
+     to push the `output` branch in your profile repo; otherwise this image will be broken.
+-->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
@@ -653,6 +694,9 @@ focus on **AI-powered applications**.
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
+<!-- LET'S CONNECT: contact cards (email, GitHub, Instagram, X, Medium, Dev.to, Portfolio, Facebook)
+     from assets/connect/*.svg, laid out in a table.
+-->
 <h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
 
 <p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
@@ -680,6 +724,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
+<!-- CLOSING MESSAGE: thank-you heading shown above the footer wave. -->
 <h1>Thanks for Visiting 👋</h1>
 
 <sub>Let's build something great together — reach out any time.</sub>
@@ -689,5 +734,6 @@ focus on **AI-powered applications**.
 <br/>
 
 <div align="center">
+<!-- FOOTER WAVE: blue gradient banner (capsule-render). -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b16,50:0b2a66,100:247bff&height=120&section=footer" width="100%"/>
 </div>
