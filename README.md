@@ -1,18 +1,18 @@
 <div align="center">
 
-![Intro](./assets/hero.svg?v=1)
+![Intro](./v1/assets/hero.svg?v=1)
 
-![About](./assets/about-life.svg?v=1)
+![About](./v1/assets/about-life.svg?v=1)
 
-![Stack](./assets/stack.svg?v=1)
+![Stack](./v1/assets/stack.svg?v=1)
 
-![Projects](./assets/projects.svg?v=1)
+![Projects](./v1/assets/projects.svg?v=1)
 
-![Activity](./assets/activity.svg?v=1)
+![Activity](./v1/assets/activity.svg?v=1)
 
-![ID](./assets/id-dashboard.svg?v=1)
+![ID](./v1/assets/id-dashboard.svg?v=1)
 
-![Connect](./assets/connect.svg?v=1)
+![Connect](./v1/assets/connect.svg?v=1)
 
 [Email](mailto:amolpawar.me@gmail.com) · [Portfolio](https://amolpawar.netlify.app/) · [GitHub](https://github.com/amolpawar24) · [Instagram](https://www.instagram.com/amolpawar.24/) · [X](https://x.com/AmolPawar2404) · [Medium](https://medium.com/@amolpawar.me) · [Dev.to](https://dev.to/amolpawar24) · [Facebook](https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/)
 
