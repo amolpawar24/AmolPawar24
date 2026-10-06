@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/dev-card.svg?v=2" width="100%" alt="Amol Pawar — Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/dev-card.svg?v=2" width="100%" alt="Amol Pawar — Full Stack Developer"/>
 
 <br/>
 
