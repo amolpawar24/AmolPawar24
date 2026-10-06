@@ -22,6 +22,46 @@
 <br clear="both">
 
 <div align="center">
+
+<a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Follow-247bff?style=for-the-badge&logo=facebook&logoColor=white&labelColor=070b16" alt="Facebook" />
+</a>&nbsp;
+<a href="https://www.instagram.com/amolpawar.24/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-247bff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=070b16" alt="Instagram" />
+</a>&nbsp;
+<a href="https://x.com/AmolPawar2404" target="_blank">
+  <img src="https://img.shields.io/badge/X-Follow-247bff?style=for-the-badge&logo=x&logoColor=white&labelColor=070b16" alt="X" />
+</a>&nbsp;
+<a href="mailto:amolpawar.me@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-247bff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070b16" alt="Email" />
+</a>&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Drive-247bff?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=070b16" alt="Resume" />
+</a>&nbsp;
+<a href="https://amolpawar.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-247bff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=070b16" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/amolpawar24" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="GitHub" />
+</a>&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-247bff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=070b16" alt="LeetCode" />
+</a>&nbsp;
+<a href="https://dev.to/amolpawar24" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-Read-247bff?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=070b16" alt="Dev.to" />
+</a>&nbsp;
+<a href="https://medium.com/@amolpawar.me" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-Read-247bff?style=for-the-badge&logo=medium&logoColor=white&labelColor=070b16" alt="Medium" />
+</a>
+
+</div>
+
+<br clear="both">
+
+<div align="center">
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
@@ -69,6 +109,18 @@ focus on **AI-powered applications**.
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 </div>
 
+<h2 align="center">🔵 What I Build</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/about-life/about-life.svg?v=1" width="100%" alt="What I build — capabilities and what I'm exploring"/>
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+</div>
+
 <!-- ─────────────────────────────────────────────────────────────── -->
 <!--  MY STACK (animated orbit SVG, blue theme)                      -->
 <!-- ─────────────────────────────────────────────────────────────── -->
@@ -95,80 +147,20 @@ focus on **AI-powered applications**.
 
 <h2 align="center">🔵 Featured Projects</h2>
 
-<table width="100%" border="0" align="center">
-  <tr>
-    <td align="center" width="50%" style="padding:22px;">
-      <h3>🌐 BPL Official</h3>
-      <p><i>A modern, responsive platform built on React/Next.js with a Node.js backend.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-247bff?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Node.js-0c1428?style=flat-square&logo=node.js&logoColor=7fb2ff" />
-        <img src="https://img.shields.io/badge/-MongoDB-247bff?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-247bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b16" alt="Live Demo" />
-        </a>&nbsp;
-        <a href="https://github.com/amolpawar24" target="_blank">
-          <img src="https://img.shields.io/badge/Source-💻%20Code-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-    <td align="center" width="50%" style="padding:22px;">
-      <h3>🛠️ BPL Admin Dashboard</h3>
-      <p><i>Feature-rich dashboard with real-time data management and a clean UI.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-247bff?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Redux-0c1428?style=flat-square&logo=redux&logoColor=7fb2ff" />
-        <img src="https://img.shields.io/badge/-MUI-247bff?style=flat-square&logo=mui&logoColor=white" />
-      </p>
-      <p>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-247bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b16" alt="Live Demo" />
-        </a>&nbsp;
-        <a href="https://github.com/amolpawar24" target="_blank">
-          <img src="https://img.shields.io/badge/Source-💻%20Code-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding:22px;">
-      <h3>⚙️ BPL Backend API</h3>
-      <p><i>RESTful API built with Express &amp; MongoDB powering the entire BPL ecosystem.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/-Express-0c1428?style=flat-square&logo=express&logoColor=7fb2ff" />
-        <img src="https://img.shields.io/badge/-MongoDB-247bff?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/-REST%20API-247bff?style=flat-square&logo=postman&logoColor=white" />
-      </p>
-      <p>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-247bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b16" alt="Live Demo" />
-        </a>&nbsp;
-        <a href="https://github.com/amolpawar24" target="_blank">
-          <img src="https://img.shields.io/badge/Source-💻%20Code-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-    <td align="center" width="50%" style="padding:22px;">
-      <h3>💼 Portfolio Website</h3>
-      <p><i>Personal portfolio showcasing projects, skills &amp; experience — fully responsive.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/-Next.js-0c1428?style=flat-square&logo=next.js&logoColor=7fb2ff" />
-        <img src="https://img.shields.io/badge/-Tailwind-247bff?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Vercel-0c1428?style=flat-square&logo=vercel&logoColor=7fb2ff" />
-      </p>
-      <p>
-        <a href="https://amolpawar.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit-247bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070b16" alt="Live Demo" />
-        </a>&nbsp;
-        <a href="https://github.com/amolpawar24" target="_blank">
-          <img src="https://img.shields.io/badge/Source-💻%20Code-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/projects/projects.svg?v=1" width="100%" alt="Featured projects — BPL Official, BPL Admin Dashboard, BPL Backend API, Portfolio Website"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://amolpawar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-🚀%20Visit-247bff?style=for-the-badge&logo=netlify&logoColor=white&labelColor=070b16" alt="Live Portfolio" />
+  </a>&nbsp;
+  <a href="https://github.com/amolpawar24?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Source-💻%20All%20Repositories-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="All repositories" />
+  </a>
+</div>
 
 <br clear="both">
 
@@ -177,6 +169,12 @@ focus on **AI-powered applications**.
 </div>
 
 <h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/activity/activity.svg?v=1" width="100%" alt="GitHub activity — commits by repository and language mix"/>
+</div>
+
+<br/>
 
 <table width="100%" align="center">
   <tr>
