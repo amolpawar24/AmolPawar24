@@ -27,51 +27,6 @@
 
 <br clear="both">
 
-<div align="center">
-
-
-<!-- SOCIAL BADGES (row 1): Facebook, Instagram, X, Email, Resume, Portfolio.
-     Badges come from shields.io. Resume and LeetCode still use href="#" - replace with your real links.
--->
-<a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Follow-247bff?style=for-the-badge&logo=facebook&logoColor=white&labelColor=070b16" alt="Facebook" />
-</a>&nbsp;
-<a href="https://www.instagram.com/amolpawar.24/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-247bff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=070b16" alt="Instagram" />
-</a>&nbsp;
-<a href="https://x.com/AmolPawar2404" target="_blank">
-  <img src="https://img.shields.io/badge/X-Follow-247bff?style=for-the-badge&logo=x&logoColor=white&labelColor=070b16" alt="X" />
-</a>&nbsp;
-<a href="mailto:amolpawar.me@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-247bff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070b16" alt="Email" />
-</a>&nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Drive-247bff?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=070b16" alt="Resume" />
-</a>&nbsp;
-<a href="https://amolpawar.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-247bff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=070b16" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-<!-- SOCIAL BADGES (row 2): GitHub, LeetCode, Dev.to, Medium. -->
-<a href="https://github.com/amolpawar24" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-0c1428?style=for-the-badge&logo=github&logoColor=7fb2ff&labelColor=070b16" alt="GitHub" />
-</a>&nbsp;
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-247bff?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=070b16" alt="LeetCode" />
-</a>&nbsp;
-<a href="https://dev.to/amolpawar24" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-Read-247bff?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=070b16" alt="Dev.to" />
-</a>&nbsp;
-<a href="https://medium.com/@amolpawar.me" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-Read-247bff?style=for-the-badge&logo=medium&logoColor=white&labelColor=070b16" alt="Medium" />
-</a>
-
-</div>
-
-<br clear="both">
-
 <!-- SECTION DIVIDER: small animated line (reused between sections) -->
 <div align="center">
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
