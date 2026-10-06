@@ -39,8 +39,9 @@
 
 <br clear="both">
 
-<!-- ABOUT ME: short intro, a typing quote, bullet highlights and status badges.
-     The two GIFs (right-aligned decoration) are hosted on user-images.githubusercontent.com.
+<!-- ABOUT ME: intro text on the left, animation on the right (two-column table, so it
+     stays aligned on every screen size instead of floating), then status badges.
+     Badges use the same dark style as the social buttons at the top (labelColor=070b16).
 -->
 <h2 align="center">🔵 About Me</h2>
 
@@ -48,7 +49,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=7FB2FF&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width:600px;" alt="Typing Quote" />
 </p>
 
-<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+<table width="100%">
+  <tr>
+    <td width="62%" valign="middle">
 
 Hey! I'm **Amol Pawar**, a passionate **Full Stack Developer** based in Maharashtra, India.
 I specialize in building clean, scalable web applications using the **MERN stack**, with hands-on
@@ -63,16 +66,32 @@ focus on **AI-powered applications**.
 - 🟢 &nbsp;Open to full-stack development opportunities
 - ⚡ &nbsp;Fun fact: Code. Break. Fix. Repeat.
 
-<p>
-  <img src="https://img.shields.io/badge/Status-🟢_Open_to_Work-0c1428?style=flat-square" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-247bff?style=flat-square" alt="Role" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Full_Stack_Development-0c1428?style=flat-square" alt="Focus" />
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height="340" alt="Developer animation" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- STATUS BADGES: availability, role and focus in one centered row. -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-247bff?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=070b16" alt="Status" />&nbsp;
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Developer-247bff?style=for-the-badge&logo=react&logoColor=white&labelColor=070b16" alt="Role" />&nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Full_Stack-0c1428?style=for-the-badge&logo=openai&logoColor=7fb2ff&labelColor=070b16" alt="Focus" />
+</div>
+
+<br/>
+
+<!-- TOPICS + PHILOSOPHY: centered so they line up with the badges above and the cards below. -->
+<p align="center">
+  💬 &nbsp;<b>Let's Discuss:</b> JavaScript, React.js, Node.js, MongoDB, Java, AI Integration, Full Stack Architecture &amp; Git Workflows.
 </p>
 
-💬 &nbsp;**Let's Discuss:** JavaScript, React.js, Node.js, MongoDB, Java, AI Integration, Full Stack Architecture &amp; Git Workflows.
-⚡ &nbsp;**Philosophy:** *"Turning random ideas into production-ready code."*
+<p align="center">
+  ⚡ &nbsp;<b>Philosophy:</b> <i>"Turning random ideas into production-ready code."</i>
+</p>
 
 <br clear="both">
 
@@ -197,69 +216,29 @@ focus on **AI-powered applications**.
 <!--  generator script, not this block.                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<!-- GITHUB DASHBOARD: heading is manual, but the content between START_SECTION and
-     END_SECTION is rewritten by GitHub Actions - do NOT add comments or edits inside it,
-     they will be overwritten on the next run.
+<!-- GITHUB DASHBOARD: heading now matches the other sections (centered h2 with 🔵).
+     The content between START_SECTION and END_SECTION is rewritten by GitHub Actions,
+     so any styling inside it must also be changed in scripts/generate-dashboard.js.
 -->
-## 📊 GitHub Dashboard
-
-</div>
+<h2 align="center">🔵 GitHub Dashboard</h2>
 
 <!--START_SECTION:github-dashboard-->
 
+<h3 align="center">⚡ GitHub Statistics</h3>
+
 <div align="center">
-
-### ⚡ GitHub Statistics
-
-<p>
+  <img src="https://img.shields.io/badge/Repositories-20-247bff?style=for-the-badge&logo=github&logoColor=white&labelColor=070b16" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Stars-0-247bff?style=for-the-badge&logo=github&logoColor=white&labelColor=070b16" alt="Stars" />
+  <img src="https://img.shields.io/badge/Forks-0-247bff?style=for-the-badge&logo=git&logoColor=white&labelColor=070b16" alt="Forks" />
+  <img src="https://img.shields.io/badge/Followers-0-247bff?style=for-the-badge&logo=github&logoColor=white&labelColor=070b16" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open_Issues-0-247bff?style=for-the-badge&logo=github&logoColor=white&labelColor=070b16" alt="Open Issues" />
+<br/>
 <sub>Automatically generated from GitHub data</sub>
-</p>
-
 </div>
 
-<table align="center">
-
-<tr>
-
-<td align="center">
-<strong>📦 20</strong>
-<br>
-<sub>Repositories</sub>
-</td>
-
-<td align="center">
-<strong>⭐ 0</strong>
-<br>
-<sub>Stars</sub>
-</td>
-
-<td align="center">
-<strong>🍴 0</strong>
-<br>
-<sub>Forks</sub>
-</td>
-
-<td align="center">
-<strong>👥 0</strong>
-<br>
-<sub>Followers</sub>
-</td>
-
-<td align="center">
-<strong>🐛 0</strong>
-<br>
-<sub>Open Issues</sub>
-</td>
-
-</tr>
-
-</table>
-
 <br>
 
-### 🏆 Top Repositories
+<h3 align="center">🏆 Top Repositories</h3>
 
 <table width="100%">
 
@@ -345,16 +324,16 @@ focus on **AI-powered applications**.
 
 <br>
 
-### 💻 Code Distribution
+<h3 align="center">💻 Code Distribution</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SCSS-27.3%25-247bff?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/TypeScript-25.9%25-247bff?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML-19.7%25-247bff?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-12.1%25-247bff?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-11.5%25-247bff?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-1.9%25-247bff?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/SCSS-27.3%25-247bff?style=for-the-badge&labelColor=070b16" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-25.9%25-247bff?style=for-the-badge&labelColor=070b16" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-19.7%25-247bff?style=for-the-badge&labelColor=070b16" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-12.1%25-247bff?style=for-the-badge&labelColor=070b16" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-11.5%25-247bff?style=for-the-badge&labelColor=070b16" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-1.9%25-247bff?style=for-the-badge&labelColor=070b16" alt="Python" />
 
 </div>
 
@@ -401,7 +380,7 @@ focus on **AI-powered applications**.
 
 <br>
 
-### 🚀 Recent Repository Activity
+<h3 align="center">🚀 Recent Repository Activity</h3>
 
 <table width="100%">
 
@@ -451,12 +430,12 @@ focus on **AI-powered applications**.
 
 <br>
 
-### 📊 Repository Commits
+<h3 align="center">📊 Repository Commits</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-872-247bff?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Repositories-20-3b8bff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-872-247bff?style=for-the-badge&logo=github&logoColor=white&labelColor=070b16" />
+<img src="https://img.shields.io/badge/Repositories-20-3b8bff?style=for-the-badge&logo=github&logoColor=white&labelColor=070b16" />
 
 </div>
 
