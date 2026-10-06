@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/dev-card/dev-card.svg?v=1" width="100%" alt="Amol Pawar — Full Stack Developer"/>
+<img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/dev-card/dev-card.svg?v=2" width="100%" alt="Amol Pawar — Full Stack Developer"/>
 
 <br/>
 
@@ -116,7 +116,7 @@ focus on **AI-powered applications**.
 <h2 align="center">🔵 My Stack</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/stack/stack.svg?v=1" width="100%" alt="My Tech Stack"/>
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/stack/stack.svg?v=2" width="100%" alt="My Tech Stack"/>
 </div>
 
 <br/>
@@ -124,7 +124,7 @@ focus on **AI-powered applications**.
 <h2 align="center">🔵 Developer ID</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/id-dashboard/id-dashboard.svg?v=1" width="100%" alt="Amol Pawar — Developer ID"/>
+  <img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/id-dashboard/id-dashboard.svg?v=2" width="100%" alt="Amol Pawar — Developer ID"/>
 </div>
 
 <br clear="both">
@@ -701,21 +701,21 @@ focus on **AI-powered applications**.
 
 <table width="100%" cellspacing="8" border="0">
   <tr>
-    <td rowspan="4" width="48%" valign="middle"><a href="https://amolpawar.netlify.app/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/connect-left.svg?v=1" width="100%" alt="Let's build something great"/></a></td>
-    <td width="26%"><a href="mailto:amolpawar.me@gmail.com"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-email.svg?v=1" width="100%" alt="Email"/></a></td>
-    <td width="26%"><a href="https://github.com/amolpawar24"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-github.svg?v=1" width="100%" alt="GitHub"/></a></td>
+    <td rowspan="4" width="48%" valign="middle"><a href="https://amolpawar.netlify.app/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/connect-left.svg?v=2" width="100%" alt="Let's build something great"/></a></td>
+    <td width="26%"><a href="mailto:amolpawar.me@gmail.com"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/card-email.svg?v=2" width="100%" alt="Email"/></a></td>
+    <td width="26%"><a href="https://github.com/amolpawar24"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/card-github.svg?v=2" width="100%" alt="GitHub"/></a></td>
   </tr>
   <tr>
-    <td width="26%"><a href="https://www.instagram.com/amolpawar.24/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-instagram.svg?v=1" width="100%" alt="Instagram"/></a></td>
-    <td width="26%"><a href="https://x.com/AmolPawar2404"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-x.svg?v=1" width="100%" alt="X"/></a></td>
+    <td width="26%"><a href="https://www.instagram.com/amolpawar.24/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/card-instagram.svg?v=2" width="100%" alt="Instagram"/></a></td>
+    <td width="26%"><a href="https://x.com/AmolPawar2404"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/card-x.svg?v=2" width="100%" alt="X"/></a></td>
   </tr>
   <tr>
-    <td width="26%"><a href="https://medium.com/@amolpawar.me"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-medium.svg?v=1" width="100%" alt="Medium"/></a></td>
-    <td width="26%"><a href="https://dev.to/amolpawar24"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-devto.svg?v=1" width="100%" alt="Dev.to"/></a></td>
+    <td width="26%"><a href="https://medium.com/@amolpawar.me"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/card-medium.svg?v=2" width="100%" alt="Medium"/></a></td>
+    <td width="26%"><a href="https://dev.to/amolpawar24"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/card-devto.svg?v=2" width="100%" alt="Dev.to"/></a></td>
   </tr>
   <tr>
-    <td width="26%"><a href="https://amolpawar.netlify.app/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-portfolio.svg?v=1" width="100%" alt="Portfolio"/></a></td>
-    <td width="26%"><a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/v2/assets/connect/card-facebook.svg?v=1" width="100%" alt="Facebook"/></a></td>
+    <td width="26%"><a href="https://amolpawar.netlify.app/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/card-portfolio.svg?v=2" width="100%" alt="Portfolio"/></a></td>
+    <td width="26%"><a href="https://www.facebook.com/people/Amol-Pawar/pfbid0qvP4QRR65irXCDVeZwYMJakAPcpimmx8k8J7bjd3Q4kCSith7ctZ8n5pwYCxHk48l/"><img src="https://raw.githubusercontent.com/amolpawar24/AmolPawar24/main/assets/connect/card-facebook.svg?v=2" width="100%" alt="Facebook"/></a></td>
   </tr>
 </table>
 
