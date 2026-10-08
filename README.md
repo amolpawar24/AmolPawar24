@@ -239,7 +239,7 @@ focus on **AI-powered applications**.
 <tr>
 
 <td align="center">
-<strong>📦 21</strong>
+<strong>📦 25</strong>
 <br>
 <sub>Repositories</sub>
 </td>
@@ -339,7 +339,7 @@ focus on **AI-powered applications**.
 <br>
 <sub>Official Bhalawani Premier League mobile application built with React Native and Expo.</sub>
 </td>
-<td align="center"><sub>TypeScript</sub></td>
+<td align="center"><sub>JavaScript</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
 </tr>
@@ -347,11 +347,11 @@ focus on **AI-powered applications**.
 <tr>
 <td align="center"><strong>6</strong></td>
 <td>
-<a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a>
+<a href="https://github.com/amolpawar24/BPL-Official"><strong>BPL-Official</strong></a>
 <br>
-<sub>☕ Core Java concepts, practical programs, OOP, Collections, Exception Handling, Strings, Arrays & mo...</sub>
+<sub>Official BPL web application built with Next.js, TypeScript, SCSS, and modern frontend technologies,...</sub>
 </td>
-<td align="center"><sub>Java</sub></td>
+<td align="center"><sub>JavaScript</sub></td>
 <td align="center">0</td>
 <td align="center">0</td>
 </tr>
@@ -364,12 +364,12 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SCSS-26.9%25-247bff?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/TypeScript-25.2%25-247bff?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML-19.8%25-247bff?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/JavaScript-12.7%25-247bff?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/CSS-11.8%25-247bff?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/Python-1.9%25-247bff?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/SCSS-27.4%25-247bff?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-23.8%25-247bff?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-20.2%25-247bff?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/JavaScript-13.0%25-247bff?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/CSS-12.0%25-247bff?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/Python-2.0%25-247bff?style=flat-square" alt="Python" />
 
 </div>
 
@@ -384,32 +384,32 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>SCSS</strong></td>
-<td align="right"><strong>26.9%</strong></td>
+<td align="right"><strong>27.4%</strong></td>
 </tr>
 
 <tr>
 <td><strong>TypeScript</strong></td>
-<td align="right"><strong>25.2%</strong></td>
+<td align="right"><strong>23.8%</strong></td>
 </tr>
 
 <tr>
 <td><strong>HTML</strong></td>
-<td align="right"><strong>19.8%</strong></td>
+<td align="right"><strong>20.2%</strong></td>
 </tr>
 
 <tr>
 <td><strong>JavaScript</strong></td>
-<td align="right"><strong>12.7%</strong></td>
+<td align="right"><strong>13.0%</strong></td>
 </tr>
 
 <tr>
 <td><strong>CSS</strong></td>
-<td align="right"><strong>11.8%</strong></td>
+<td align="right"><strong>12.0%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Python</strong></td>
-<td align="right"><strong>1.9%</strong></td>
+<td align="right"><strong>2.0%</strong></td>
 </tr>
 
 </table>
@@ -427,39 +427,39 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/BPL-App"><strong>BPL-App</strong></a></td>
-<td align="center"><sub>TypeScript</sub></td>
-<td align="right"><sub>13 hrs ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>23 hrs ago</sub></td>
-</tr>
-
-<tr>
 <td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
 <td align="center"><sub>TypeScript</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
+<td align="right"><sub>3 mins ago</sub></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
-<td align="center"><sub>Python</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
+<td><a href="https://github.com/amolpawar24/BPL-Official"><strong>BPL-Official</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>5 hrs ago</sub></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
-<td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>2 days ago</sub></td>
+<td><a href="https://github.com/amolpawar24/BPL-App"><strong>BPL-App</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>5 hrs ago</sub></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
-<td align="center"><sub>Java</sub></td>
-<td align="right"><sub>2 days ago</sub></td>
+<td><a href="https://github.com/amolpawar24/Data-Structures"><strong>Data-Structures</strong></a></td>
+<td align="center"><sub>—</sub></td>
+<td align="right"><sub>5 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Spring-Boot"><strong>Spring-Boot</strong></a></td>
+<td align="center"><sub>—</sub></td>
+<td align="right"><sub>5 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/SQL"><strong>SQL</strong></a></td>
+<td align="center"><sub>—</sub></td>
+<td align="right"><sub>5 hrs ago</sub></td>
 </tr>
 
 </table>
@@ -470,8 +470,8 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-1100-247bff?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Repositories-21-3b8bff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-1022-247bff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-25-3b8bff?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -486,7 +486,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">188</td>
+<td align="right">189</td>
 </tr>
 
 <tr>
@@ -505,13 +505,13 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/BPL-App"><strong>BPL-App</strong></a></td>
-<td align="right">104</td>
+<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
+<td align="right">70</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/ReactJs"><strong>ReactJs</strong></a></td>
-<td align="right">70</td>
+<td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
+<td align="right">65</td>
 </tr>
 
 <tr>
@@ -521,11 +521,6 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
-<td align="right">56</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
 <td align="right">56</td>
 </tr>
 
@@ -565,12 +560,22 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
+<td><a href="https://github.com/amolpawar24/BPL-Official"><strong>BPL-Official</strong></a></td>
+<td align="right">8</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amolpawar24/Pepsi-Website-Clone"><strong>Pepsi-Website-Clone</strong></a></td>
 <td align="right">6</td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/Advanced-Java"><strong>Advanced-Java</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/BPL-App"><strong>BPL-App</strong></a></td>
 <td align="right">3</td>
 </tr>
 
@@ -585,13 +590,28 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
+<td><a href="https://github.com/amolpawar24/SQL"><strong>SQL</strong></a></td>
+<td align="right">3</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amolpawar24/PrepInsta-Top-100-Codes"><strong>PrepInsta-Top-100-Codes</strong></a></td>
 <td align="right">2</td>
 </tr>
 
 <tr>
+<td><a href="https://github.com/amolpawar24/Data-Structures"><strong>Data-Structures</strong></a></td>
+<td align="right">1</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Spring-Boot"><strong>Spring-Boot</strong></a></td>
+<td align="right">1</td>
+</tr>
+
+<tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>1100</strong></td>
+<td align="right"><strong>1022</strong></td>
 </tr>
 
 </table>
@@ -600,7 +620,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<sub>🕐 Last updated: 8 Oct 2026, 10:33 am IST</sub>
+<sub>🕐 Last updated: 8 Oct 2026, 4:28 pm IST</sub>
 
 <br>
 
