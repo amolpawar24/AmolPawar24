@@ -364,12 +364,12 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SCSS-27.1%25-247bff?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/TypeScript-23.8%25-247bff?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML-19.9%25-247bff?style=flat-square" alt="HTML" />
-<img src="https://img.shields.io/badge/JavaScript-13.0%25-247bff?style=flat-square" alt="JavaScript" />
-<img src="https://img.shields.io/badge/CSS-11.9%25-247bff?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/Python-2.0%25-247bff?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/SCSS-26.4%25-247bff?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/TypeScript-23.1%25-247bff?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML-22.3%25-247bff?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/JavaScript-12.6%25-247bff?style=flat-square" alt="JavaScript" />
+<img src="https://img.shields.io/badge/CSS-11.6%25-247bff?style=flat-square" alt="CSS" />
+<img src="https://img.shields.io/badge/Python-1.9%25-247bff?style=flat-square" alt="Python" />
 
 </div>
 
@@ -384,32 +384,32 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>SCSS</strong></td>
-<td align="right"><strong>27.1%</strong></td>
+<td align="right"><strong>26.4%</strong></td>
 </tr>
 
 <tr>
 <td><strong>TypeScript</strong></td>
-<td align="right"><strong>23.8%</strong></td>
+<td align="right"><strong>23.1%</strong></td>
 </tr>
 
 <tr>
 <td><strong>HTML</strong></td>
-<td align="right"><strong>19.9%</strong></td>
+<td align="right"><strong>22.3%</strong></td>
 </tr>
 
 <tr>
 <td><strong>JavaScript</strong></td>
-<td align="right"><strong>13.0%</strong></td>
+<td align="right"><strong>12.6%</strong></td>
 </tr>
 
 <tr>
 <td><strong>CSS</strong></td>
-<td align="right"><strong>11.9%</strong></td>
+<td align="right"><strong>11.6%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Python</strong></td>
-<td align="right"><strong>2.0%</strong></td>
+<td align="right"><strong>1.9%</strong></td>
 </tr>
 
 </table>
@@ -427,39 +427,39 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
-<td align="center"><sub>Java</sub></td>
-<td align="right"><sub>17 hrs ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/PrepInsta-Top-100-Codes"><strong>PrepInsta-Top-100-Codes</strong></a></td>
-<td align="center"><sub>Java</sub></td>
-<td align="right"><sub>17 hrs ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>23 hrs ago</sub></td>
+<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
+<td align="center"><sub>HTML</sub></td>
+<td align="right"><sub>15 hrs ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
 <td align="center"><sub>TypeScript</sub></td>
+<td align="right"><sub>23 hrs ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
+<td align="center"><sub>JavaScript</sub></td>
+<td align="right"><sub>1 day ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/Core-Java"><strong>Core-Java</strong></a></td>
+<td align="center"><sub>Java</sub></td>
+<td align="right"><sub>1 day ago</sub></td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/PrepInsta-Top-100-Codes"><strong>PrepInsta-Top-100-Codes</strong></a></td>
+<td align="center"><sub>Java</sub></td>
 <td align="right"><sub>1 day ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/BPL-Official"><strong>BPL-Official</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>2 days ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/BPL-App"><strong>BPL-App</strong></a></td>
-<td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>2 days ago</sub></td>
+<td align="right"><sub>3 days ago</sub></td>
 </tr>
 
 </table>
@@ -470,7 +470,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-1066-247bff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-1101-247bff?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-25-3b8bff?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -486,7 +486,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">192</td>
+<td align="right">193</td>
 </tr>
 
 <tr>
@@ -506,7 +506,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
-<td align="right">83</td>
+<td align="right">85</td>
 </tr>
 
 <tr>
@@ -532,6 +532,11 @@ focus on **AI-powered applications**.
 <tr>
 <td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
 <td align="right">36</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
+<td align="right">35</td>
 </tr>
 
 <tr>
@@ -585,11 +590,6 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
-<td align="right">3</td>
-</tr>
-
-<tr>
 <td><a href="https://github.com/amolpawar24/NodeJS"><strong>NodeJS</strong></a></td>
 <td align="right">3</td>
 </tr>
@@ -611,7 +611,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>1066</strong></td>
+<td align="right"><strong>1101</strong></td>
 </tr>
 
 </table>
@@ -620,7 +620,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<sub>🕐 Last updated: 11 Oct 2026, 10:09 am IST</sub>
+<sub>🕐 Last updated: 12 Oct 2026, 10:24 am IST</sub>
 
 <br>
 
