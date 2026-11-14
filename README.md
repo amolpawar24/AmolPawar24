@@ -364,9 +364,9 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-30.3%25-247bff?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SCSS-28.7%25-247bff?style=flat-square" alt="SCSS" />
-<img src="https://img.shields.io/badge/HTML-21.0%25-247bff?style=flat-square" alt="HTML" />
+<img src="https://img.shields.io/badge/TypeScript-30.1%25-247bff?style=flat-square" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SCSS-28.6%25-247bff?style=flat-square" alt="SCSS" />
+<img src="https://img.shields.io/badge/HTML-21.5%25-247bff?style=flat-square" alt="HTML" />
 <img src="https://img.shields.io/badge/JavaScript-11.7%25-247bff?style=flat-square" alt="JavaScript" />
 <img src="https://img.shields.io/badge/CSS-5.9%25-247bff?style=flat-square" alt="CSS" />
 <img src="https://img.shields.io/badge/Python-0.9%25-247bff?style=flat-square" alt="Python" />
@@ -384,17 +384,17 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>TypeScript</strong></td>
-<td align="right"><strong>30.3%</strong></td>
+<td align="right"><strong>30.1%</strong></td>
 </tr>
 
 <tr>
 <td><strong>SCSS</strong></td>
-<td align="right"><strong>28.7%</strong></td>
+<td align="right"><strong>28.6%</strong></td>
 </tr>
 
 <tr>
 <td><strong>HTML</strong></td>
-<td align="right"><strong>21.0%</strong></td>
+<td align="right"><strong>21.5%</strong></td>
 </tr>
 
 <tr>
@@ -427,39 +427,39 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
+<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
+<td align="center"><sub>HTML</sub></td>
+<td align="right"><sub>14 hrs ago</sub></td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
 <td align="right"><sub>23 hrs ago</sub></td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
-<td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>2 days ago</sub></td>
-</tr>
-
-<tr>
 <td><a href="https://github.com/amolpawar24/HTML5"><strong>HTML5</strong></a></td>
 <td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>3 days ago</sub></td>
+<td align="right"><sub>4 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>11 days ago</sub></td>
+<td align="right"><sub>12 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
 <td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>14 days ago</sub></td>
+<td align="right"><sub>15 days ago</sub></td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/amolpawar24/BPL-Backend"><strong>BPL-Backend</strong></a></td>
 <td align="center"><sub>TypeScript</sub></td>
-<td align="right"><sub>20 days ago</sub></td>
+<td align="right"><sub>21 days ago</sub></td>
 </tr>
 
 </table>
@@ -470,7 +470,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-1999-247bff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-2013-247bff?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-31-3b8bff?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -496,7 +496,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">226</td>
+<td align="right">227</td>
 </tr>
 
 <tr>
@@ -536,7 +536,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/CSS3"><strong>CSS3</strong></a></td>
-<td align="right">48</td>
+<td align="right">61</td>
 </tr>
 
 <tr>
@@ -641,7 +641,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>1999</strong></td>
+<td align="right"><strong>2013</strong></td>
 </tr>
 
 </table>
@@ -650,7 +650,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<sub>🕐 Last updated: 13 Nov 2026, 11:06 am IST</sub>
+<sub>🕐 Last updated: 14 Nov 2026, 10:57 am IST</sub>
 
 <br>
 
