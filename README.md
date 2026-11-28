@@ -369,7 +369,7 @@ focus on **AI-powered applications**.
 <img src="https://img.shields.io/badge/HTML-20.9%25-247bff?style=flat-square" alt="HTML" />
 <img src="https://img.shields.io/badge/JavaScript-13.3%25-247bff?style=flat-square" alt="JavaScript" />
 <img src="https://img.shields.io/badge/CSS-8.4%25-247bff?style=flat-square" alt="CSS" />
-<img src="https://img.shields.io/badge/Python-0.8%25-247bff?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/Python-0.9%25-247bff?style=flat-square" alt="Python" />
 
 </div>
 
@@ -409,7 +409,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>Python</strong></td>
-<td align="right"><strong>0.8%</strong></td>
+<td align="right"><strong>0.9%</strong></td>
 </tr>
 
 </table>
@@ -429,13 +429,7 @@ focus on **AI-powered applications**.
 <tr>
 <td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
 <td align="center"><sub>Python</sub></td>
-<td align="right"><sub>4 hrs ago</sub></td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
-<td align="center"><sub>HTML</sub></td>
-<td align="right"><sub>20 hrs ago</sub></td>
+<td align="right"><sub>18 hrs ago</sub></td>
 </tr>
 
 <tr>
@@ -445,9 +439,15 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
+<td><a href="https://github.com/amolpawar24/JavaScript"><strong>JavaScript</strong></a></td>
+<td align="center"><sub>HTML</sub></td>
+<td align="right"><sub>1 day ago</sub></td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/amolpawar24/React-Native"><strong>React-Native</strong></a></td>
 <td align="center"><sub>JavaScript</sub></td>
-<td align="right"><sub>1 day ago</sub></td>
+<td align="right"><sub>2 days ago</sub></td>
 </tr>
 
 <tr>
@@ -459,7 +459,7 @@ focus on **AI-powered applications**.
 <tr>
 <td><a href="https://github.com/amolpawar24/ProjectFlow"><strong>ProjectFlow</strong></a></td>
 <td align="center"><sub>CSS</sub></td>
-<td align="right"><sub>7 days ago</sub></td>
+<td align="right"><sub>8 days ago</sub></td>
 </tr>
 
 </table>
@@ -470,7 +470,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Commits-2323-247bff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Commits-2344-247bff?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Repositories-32-3b8bff?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
@@ -491,7 +491,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><a href="https://github.com/amolpawar24/AmolPawar24"><strong>AmolPawar24</strong></a></td>
-<td align="right">240</td>
+<td align="right">241</td>
 </tr>
 
 <tr>
@@ -545,13 +545,13 @@ focus on **AI-powered applications**.
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/BPL-Hub"><strong>BPL-Hub</strong></a></td>
-<td align="right">43</td>
+<td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
+<td align="right">59</td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/amolpawar24/Python"><strong>Python</strong></a></td>
-<td align="right">39</td>
+<td><a href="https://github.com/amolpawar24/BPL-Hub"><strong>BPL-Hub</strong></a></td>
+<td align="right">43</td>
 </tr>
 
 <tr>
@@ -646,7 +646,7 @@ focus on **AI-powered applications**.
 
 <tr>
 <td><strong>Total</strong></td>
-<td align="right"><strong>2323</strong></td>
+<td align="right"><strong>2344</strong></td>
 </tr>
 
 </table>
@@ -655,7 +655,7 @@ focus on **AI-powered applications**.
 
 <div align="center">
 
-<sub>🕐 Last updated: 27 Nov 2026, 12:46 pm IST</sub>
+<sub>🕐 Last updated: 28 Nov 2026, 12:19 pm IST</sub>
 
 <br>
 
